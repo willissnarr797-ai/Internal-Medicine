@@ -1,0 +1,1150 @@
+{
+    "source_title":  "西氏内科学精要",
+    "source_root":  "D:\\morning\\文档\\obsidian库\\01医学课程测试\\01_41内科学",
+    "target_root":  "D:\\morning\\文档\\obsidian库\\01_美国医学教育测试\\999_附件文件夹\\source_materials\\西氏内科学精要_2026-07-10",
+    "assessed_at":  "2026-07-10",
+    "markdown_total":  154,
+    "copied_nonempty_markdown":  147,
+    "skipped_empty_markdown":  7,
+    "encoding_issue_count":  0,
+    "skipped_empty_files":  [
+                                "00_模板\\空白行.md",
+                                "998专题\\待整理\\空白占位文件\\00_地图_未命名 1.md",
+                                "998专题\\待整理\\空白占位文件\\00_地图_未命名 2.md",
+                                "998专题\\待整理\\空白占位文件\\00_地图_未命名.md",
+                                "998专题\\待整理\\空白占位文件\\00_模板_未命名 1.md",
+                                "998专题\\待整理\\空白占位文件\\00_模板_未命名 2.md",
+                                "998专题\\待整理\\空白占位文件\\00_模板_未命名.md"
+                            ],
+    "encoding_issue_files":  [
+
+                             ],
+    "sections":  [
+                     {
+                         "section":  "02_心血管疾病",
+                         "markdown_count":  12,
+                         "size_kb":  712.1
+                     },
+                     {
+                         "section":  "00_地图",
+                         "markdown_count":  4,
+                         "size_kb":  29.3
+                     },
+                     {
+                         "section":  "07_肝脏与胆道系统疾病",
+                         "markdown_count":  7,
+                         "size_kb":  160.7
+                     },
+                     {
+                         "section":  "08_血液系统疾病",
+                         "markdown_count":  9,
+                         "size_kb":  475.2
+                     },
+                     {
+                         "section":  "03_呼吸与危重症医学",
+                         "markdown_count":  12,
+                         "size_kb":  410.3
+                     },
+                     {
+                         "section":  "09_肿瘤",
+                         "markdown_count":  10,
+                         "size_kb":  213.3
+                     },
+                     {
+                         "section":  "10_内分泌疾病与代谢性疾病",
+                         "markdown_count":  9,
+                         "size_kb":  361
+                     },
+                     {
+                         "section":  "13_骨与骨矿物质代谢性疾病",
+                         "markdown_count":  5,
+                         "size_kb":  140.3
+                     },
+                     {
+                         "section":  "06_胃肠道疾病",
+                         "markdown_count":  7,
+                         "size_kb":  300.4
+                     },
+                     {
+                         "section":  "14_肌肉骨骼与结缔组织疾病",
+                         "markdown_count":  11,
+                         "size_kb":  258.3
+                     },
+                     {
+                         "section":  "01_分子医学概论",
+                         "markdown_count":  2,
+                         "size_kb":  57.9
+                     },
+                     {
+                         "section":  "04_围术期管理",
+                         "markdown_count":  2,
+                         "size_kb":  39.9
+                     },
+                     {
+                         "section":  "05_肾脏疾病",
+                         "markdown_count":  9,
+                         "size_kb":  394.2
+                     },
+                     {
+                         "section":  "16_神经疾病",
+                         "markdown_count":  21,
+                         "size_kb":  663.5
+                     },
+                     {
+                         "section":  "17_老年病学",
+                         "markdown_count":  2,
+                         "size_kb":  30.2
+                     },
+                     {
+                         "section":  "11_女性健康",
+                         "markdown_count":  2,
+                         "size_kb":  80.7
+                     },
+                     {
+                         "section":  "12_男性健康",
+                         "markdown_count":  2,
+                         "size_kb":  81.1
+                     },
+                     {
+                         "section":  "998专题",
+                         "markdown_count":  2,
+                         "size_kb":  18
+                     },
+                     {
+                         "section":  "15_感染性疾病",
+                         "markdown_count":  19,
+                         "size_kb":  652.4
+                     }
+                 ],
+    "files":  [
+                  {
+                      "relative_path":  "00_地图\\内科学内部链接索引.md",
+                      "section":  "00_地图",
+                      "file_name":  "内科学内部链接索引.md",
+                      "size_bytes":  13739,
+                      "has_encoding_marker":  false
+                  },
+                  {
+                      "relative_path":  "00_地图\\复习.md",
+                      "section":  "00_地图",
+                      "file_name":  "复习.md",
+                      "size_bytes":  1287,
+                      "has_encoding_marker":  false
+                  },
+                  {
+                      "relative_path":  "00_地图\\大纲.md",
+                      "section":  "00_地图",
+                      "file_name":  "大纲.md",
+                      "size_bytes":  1150,
+                      "has_encoding_marker":  false
+                  },
+                  {
+                      "relative_path":  "00_地图\\西氏内科学精要_全书_总目录.md",
+                      "section":  "00_地图",
+                      "file_name":  "西氏内科学精要_全书_总目录.md",
+                      "size_bytes":  13842,
+                      "has_encoding_marker":  false
+                  },
+                  {
+                      "relative_path":  "01_分子医学概论\\README.md",
+                      "section":  "01_分子医学概论",
+                      "file_name":  "README.md",
+                      "size_bytes":  374,
+                      "has_encoding_marker":  false
+                  },
+                  {
+                      "relative_path":  "01_分子医学概论\\第001章_人类疾病的分子基础.md",
+                      "section":  "01_分子医学概论",
+                      "file_name":  "第001章_人类疾病的分子基础.md",
+                      "size_bytes":  58882,
+                      "has_encoding_marker":  false
+                  },
+                  {
+                      "relative_path":  "02_心血管疾病\\README.md",
+                      "section":  "02_心血管疾病",
+                      "file_name":  "README.md",
+                      "size_bytes":  1313,
+                      "has_encoding_marker":  false
+                  },
+                  {
+                      "relative_path":  "02_心血管疾病\\第002章_心脏和血管的正常结构与功能.md",
+                      "section":  "02_心血管疾病",
+                      "file_name":  "第002章_心脏和血管的正常结构与功能.md",
+                      "size_bytes":  28259,
+                      "has_encoding_marker":  false
+                  },
+                  {
+                      "relative_path":  "02_心血管疾病\\第003章_心血管疾病患者的评估.md",
+                      "section":  "02_心血管疾病",
+                      "file_name":  "第003章_心血管疾病患者的评估.md",
+                      "size_bytes":  64931,
+                      "has_encoding_marker":  false
+                  },
+                  {
+                      "relative_path":  "02_心血管疾病\\第004章_心血管疾病的辅助检查.md",
+                      "section":  "02_心血管疾病",
+                      "file_name":  "第004章_心血管疾病的辅助检查.md",
+                      "size_bytes":  56328,
+                      "has_encoding_marker":  false
+                  },
+                  {
+                      "relative_path":  "02_心血管疾病\\第005章_心力衰竭与心肌病.md",
+                      "section":  "02_心血管疾病",
+                      "file_name":  "第005章_心力衰竭与心肌病.md",
+                      "size_bytes":  47982,
+                      "has_encoding_marker":  false
+                  },
+                  {
+                      "relative_path":  "02_心血管疾病\\第006章_先天性心脏病.md",
+                      "section":  "02_心血管疾病",
+                      "file_name":  "第006章_先天性心脏病.md",
+                      "size_bytes":  46413,
+                      "has_encoding_marker":  false
+                  },
+                  {
+                      "relative_path":  "02_心血管疾病\\第007章_瓣膜性心脏病.md",
+                      "section":  "02_心血管疾病",
+                      "file_name":  "第007章_瓣膜性心脏病.md",
+                      "size_bytes":  46260,
+                      "has_encoding_marker":  false
+                  },
+                  {
+                      "relative_path":  "02_心血管疾病\\第008章_冠状动脉性心脏病.md",
+                      "section":  "02_心血管疾病",
+                      "file_name":  "第008章_冠状动脉性心脏病.md",
+                      "size_bytes":  110955,
+                      "has_encoding_marker":  false
+                  },
+                  {
+                      "relative_path":  "02_心血管疾病\\第009章_心律失常.md",
+                      "section":  "02_心血管疾病",
+                      "file_name":  "第009章_心律失常.md",
+                      "size_bytes":  129844,
+                      "has_encoding_marker":  false
+                  },
+                  {
+                      "relative_path":  "02_心血管疾病\\第010章_心包与心肌疾病.md",
+                      "section":  "02_心血管疾病",
+                      "file_name":  "第010章_心包与心肌疾病.md",
+                      "size_bytes":  42751,
+                      "has_encoding_marker":  false
+                  },
+                  {
+                      "relative_path":  "02_心血管疾病\\第011章_其他心脏疾病.md",
+                      "section":  "02_心血管疾病",
+                      "file_name":  "第011章_其他心脏疾病.md",
+                      "size_bytes":  62446,
+                      "has_encoding_marker":  false
+                  },
+                  {
+                      "relative_path":  "02_心血管疾病\\第012章_血管疾病与高血压.md",
+                      "section":  "02_心血管疾病",
+                      "file_name":  "第012章_血管疾病与高血压.md",
+                      "size_bytes":  91648,
+                      "has_encoding_marker":  false
+                  },
+                  {
+                      "relative_path":  "03_呼吸与危重症医学\\README.md",
+                      "section":  "03_呼吸与危重症医学",
+                      "file_name":  "README.md",
+                      "size_bytes":  1387,
+                      "has_encoding_marker":  false
+                  },
+                  {
+                      "relative_path":  "03_呼吸与危重症医学\\第013章_健康肺与病肺.md",
+                      "section":  "03_呼吸与危重症医学",
+                      "file_name":  "第013章_健康肺与病肺.md",
+                      "size_bytes":  12579,
+                      "has_encoding_marker":  false
+                  },
+                  {
+                      "relative_path":  "03_呼吸与危重症医学\\第014章_呼吸疾病患者的诊治思路.md",
+                      "section":  "03_呼吸与危重症医学",
+                      "file_name":  "第014章_呼吸疾病患者的诊治思路.md",
+                      "size_bytes":  21143,
+                      "has_encoding_marker":  false
+                  },
+                  {
+                      "relative_path":  "03_呼吸与危重症医学\\第015章_肺结构与功能的评估.md",
+                      "section":  "03_呼吸与危重症医学",
+                      "file_name":  "第015章_肺结构与功能的评估.md",
+                      "size_bytes":  67553,
+                      "has_encoding_marker":  false
+                  },
+                  {
+                      "relative_path":  "03_呼吸与危重症医学\\第016章_阻塞性肺疾病.md",
+                      "section":  "03_呼吸与危重症医学",
+                      "file_name":  "第016章_阻塞性肺疾病.md",
+                      "size_bytes":  77275,
+                      "has_encoding_marker":  false
+                  },
+                  {
+                      "relative_path":  "03_呼吸与危重症医学\\第017章_间质性肺疾病.md",
+                      "section":  "03_呼吸与危重症医学",
+                      "file_name":  "第017章_间质性肺疾病.md",
+                      "size_bytes":  89151,
+                      "has_encoding_marker":  false
+                  },
+                  {
+                      "relative_path":  "03_呼吸与危重症医学\\第018章_肺血管疾病.md",
+                      "section":  "03_呼吸与危重症医学",
+                      "file_name":  "第018章_肺血管疾病.md",
+                      "size_bytes":  23174,
+                      "has_encoding_marker":  false
+                  },
+                  {
+                      "relative_path":  "03_呼吸与危重症医学\\第019章_呼吸调控异常疾病.md",
+                      "section":  "03_呼吸与危重症医学",
+                      "file_name":  "第019章_呼吸调控异常疾病.md",
+                      "size_bytes":  13896,
+                      "has_encoding_marker":  false
+                  },
+                  {
+                      "relative_path":  "03_呼吸与危重症医学\\第020章_胸膜、纵隔与胸壁疾病.md",
+                      "section":  "03_呼吸与危重症医学",
+                      "file_name":  "第020章_胸膜、纵隔与胸壁疾病.md",
+                      "size_bytes":  26391,
+                      "has_encoding_marker":  false
+                  },
+                  {
+                      "relative_path":  "03_呼吸与危重症医学\\第021章_肺部感染性疾病.md",
+                      "section":  "03_呼吸与危重症医学",
+                      "file_name":  "第021章_肺部感染性疾病.md",
+                      "size_bytes":  26908,
+                      "has_encoding_marker":  false
+                  },
+                  {
+                      "relative_path":  "03_呼吸与危重症医学\\第022章_危重症医学精要.md",
+                      "section":  "03_呼吸与危重症医学",
+                      "file_name":  "第022章_危重症医学精要.md",
+                      "size_bytes":  35273,
+                      "has_encoding_marker":  false
+                  },
+                  {
+                      "relative_path":  "03_呼吸与危重症医学\\第023章_肺部肿瘤.md",
+                      "section":  "03_呼吸与危重症医学",
+                      "file_name":  "第023章_肺部肿瘤.md",
+                      "size_bytes":  25276,
+                      "has_encoding_marker":  false
+                  },
+                  {
+                      "relative_path":  "04_围术期管理\\README.md",
+                      "section":  "04_围术期管理",
+                      "file_name":  "README.md",
+                      "size_bytes":  345,
+                      "has_encoding_marker":  false
+                  },
+                  {
+                      "relative_path":  "04_围术期管理\\第024章_围术期管理.md",
+                      "section":  "04_围术期管理",
+                      "file_name":  "第024章_围术期管理.md",
+                      "size_bytes":  40522,
+                      "has_encoding_marker":  false
+                  },
+                  {
+                      "relative_path":  "05_肾脏疾病\\README.md",
+                      "section":  "05_肾脏疾病",
+                      "file_name":  "README.md",
+                      "size_bytes":  931,
+                      "has_encoding_marker":  false
+                  },
+                  {
+                      "relative_path":  "05_肾脏疾病\\第025章_肾脏的结构与功能.md",
+                      "section":  "05_肾脏疾病",
+                      "file_name":  "第025章_肾脏的结构与功能.md",
+                      "size_bytes":  29210,
+                      "has_encoding_marker":  false
+                  },
+                  {
+                      "relative_path":  "05_肾脏疾病\\第026章_了解肾脏病患者.md",
+                      "section":  "05_肾脏疾病",
+                      "file_name":  "第026章_了解肾脏病患者.md",
+                      "size_bytes":  36218,
+                      "has_encoding_marker":  false
+                  },
+                  {
+                      "relative_path":  "05_肾脏疾病\\第027章_水电解质异常.md",
+                      "section":  "05_肾脏疾病",
+                      "file_name":  "第027章_水电解质异常.md",
+                      "size_bytes":  72805,
+                      "has_encoding_marker":  false
+                  },
+                  {
+                      "relative_path":  "05_肾脏疾病\\第028章_肾小球疾病.md",
+                      "section":  "05_肾脏疾病",
+                      "file_name":  "第028章_肾小球疾病.md",
+                      "size_bytes":  54420,
+                      "has_encoding_marker":  false
+                  },
+                  {
+                      "relative_path":  "05_肾脏疾病\\第029章_常见非肾小球疾病.md",
+                      "section":  "05_肾脏疾病",
+                      "file_name":  "第029章_常见非肾小球疾病.md",
+                      "size_bytes":  62290,
+                      "has_encoding_marker":  false
+                  },
+                  {
+                      "relative_path":  "05_肾脏疾病\\第030章_肾脏血管疾病.md",
+                      "section":  "05_肾脏疾病",
+                      "file_name":  "第030章_肾脏血管疾病.md",
+                      "size_bytes":  56433,
+                      "has_encoding_marker":  false
+                  },
+                  {
+                      "relative_path":  "05_肾脏疾病\\第031章_急性肾损伤.md",
+                      "section":  "05_肾脏疾病",
+                      "file_name":  "第031章_急性肾损伤.md",
+                      "size_bytes":  56803,
+                      "has_encoding_marker":  false
+                  },
+                  {
+                      "relative_path":  "05_肾脏疾病\\第032章_慢性肾脏病.md",
+                      "section":  "05_肾脏疾病",
+                      "file_name":  "第032章_慢性肾脏病.md",
+                      "size_bytes":  34575,
+                      "has_encoding_marker":  false
+                  },
+                  {
+                      "relative_path":  "06_胃肠道疾病\\README.md",
+                      "section":  "06_胃肠道疾病",
+                      "file_name":  "README.md",
+                      "size_bytes":  800,
+                      "has_encoding_marker":  false
+                  },
+                  {
+                      "relative_path":  "06_胃肠道疾病\\第033章_胃肠道疾病的常见临床表现.md",
+                      "section":  "06_胃肠道疾病",
+                      "file_name":  "第033章_胃肠道疾病的常见临床表现.md",
+                      "size_bytes":  84050,
+                      "has_encoding_marker":  false
+                  },
+                  {
+                      "relative_path":  "06_胃肠道疾病\\第034章_内镜及影像学检查.md",
+                      "section":  "06_胃肠道疾病",
+                      "file_name":  "第034章_内镜及影像学检查.md",
+                      "size_bytes":  31317,
+                      "has_encoding_marker":  false
+                  },
+                  {
+                      "relative_path":  "06_胃肠道疾病\\第035章_食管疾病.md",
+                      "section":  "06_胃肠道疾病",
+                      "file_name":  "第035章_食管疾病.md",
+                      "size_bytes":  30489,
+                      "has_encoding_marker":  false
+                  },
+                  {
+                      "relative_path":  "06_胃肠道疾病\\第036章_胃与十二指肠疾病.md",
+                      "section":  "06_胃肠道疾病",
+                      "file_name":  "第036章_胃与十二指肠疾病.md",
+                      "size_bytes":  67026,
+                      "has_encoding_marker":  false
+                  },
+                  {
+                      "relative_path":  "06_胃肠道疾病\\第037章_炎性肠病.md",
+                      "section":  "06_胃肠道疾病",
+                      "file_name":  "第037章_炎性肠病.md",
+                      "size_bytes":  37839,
+                      "has_encoding_marker":  false
+                  },
+                  {
+                      "relative_path":  "06_胃肠道疾病\\第038章_胰腺疾病.md",
+                      "section":  "06_胃肠道疾病",
+                      "file_name":  "第038章_胰腺疾病.md",
+                      "size_bytes":  55897,
+                      "has_encoding_marker":  false
+                  },
+                  {
+                      "relative_path":  "07_肝脏与胆道系统疾病\\README.md",
+                      "section":  "07_肝脏与胆道系统疾病",
+                      "file_name":  "README.md",
+                      "size_bytes":  890,
+                      "has_encoding_marker":  false
+                  },
+                  {
+                      "relative_path":  "07_肝脏与胆道系统疾病\\第039章_肝脏疾病的实验室检查.md",
+                      "section":  "07_肝脏与胆道系统疾病",
+                      "file_name":  "第039章_肝脏疾病的实验室检查.md",
+                      "size_bytes":  17450,
+                      "has_encoding_marker":  false
+                  },
+                  {
+                      "relative_path":  "07_肝脏与胆道系统疾病\\第040章_黄疸.md",
+                      "section":  "07_肝脏与胆道系统疾病",
+                      "file_name":  "第040章_黄疸.md",
+                      "size_bytes":  21843,
+                      "has_encoding_marker":  false
+                  },
+                  {
+                      "relative_path":  "07_肝脏与胆道系统疾病\\第041章_急性与慢性肝炎.md",
+                      "section":  "07_肝脏与胆道系统疾病",
+                      "file_name":  "第041章_急性与慢性肝炎.md",
+                      "size_bytes":  36550,
+                      "has_encoding_marker":  false
+                  },
+                  {
+                      "relative_path":  "07_肝脏与胆道系统疾病\\第042章_急性肝衰竭.md",
+                      "section":  "07_肝脏与胆道系统疾病",
+                      "file_name":  "第042章_急性肝衰竭.md",
+                      "size_bytes":  9665,
+                      "has_encoding_marker":  false
+                  },
+                  {
+                      "relative_path":  "07_肝脏与胆道系统疾病\\第043章_肝硬化及其并发症.md",
+                      "section":  "07_肝脏与胆道系统疾病",
+                      "file_name":  "第043章_肝硬化及其并发症.md",
+                      "size_bytes":  49968,
+                      "has_encoding_marker":  false
+                  },
+                  {
+                      "relative_path":  "07_肝脏与胆道系统疾病\\第044章_胆囊及胆道系统疾病.md",
+                      "section":  "07_肝脏与胆道系统疾病",
+                      "file_name":  "第044章_胆囊及胆道系统疾病.md",
+                      "size_bytes":  28263,
+                      "has_encoding_marker":  false
+                  },
+                  {
+                      "relative_path":  "08_血液系统疾病\\README.md",
+                      "section":  "08_血液系统疾病",
+                      "file_name":  "README.md",
+                      "size_bytes":  1037,
+                      "has_encoding_marker":  false
+                  },
+                  {
+                      "relative_path":  "08_血液系统疾病\\第045章_造血与造血衰竭.md",
+                      "section":  "08_血液系统疾病",
+                      "file_name":  "第045章_造血与造血衰竭.md",
+                      "size_bytes":  57587,
+                      "has_encoding_marker":  false
+                  },
+                  {
+                      "relative_path":  "08_血液系统疾病\\第046章_造血干细胞的克隆性疾病.md",
+                      "section":  "08_血液系统疾病",
+                      "file_name":  "第046章_造血干细胞的克隆性疾病.md",
+                      "size_bytes":  66814,
+                      "has_encoding_marker":  false
+                  },
+                  {
+                      "relative_path":  "08_血液系统疾病\\第047章_红细胞相关疾病.md",
+                      "section":  "08_血液系统疾病",
+                      "file_name":  "第047章_红细胞相关疾病.md",
+                      "size_bytes":  61262,
+                      "has_encoding_marker":  false
+                  },
+                  {
+                      "relative_path":  "08_血液系统疾病\\第048章_中性粒细胞相关临床疾病.md",
+                      "section":  "08_血液系统疾病",
+                      "file_name":  "第048章_中性粒细胞相关临床疾病.md",
+                      "size_bytes":  24798,
+                      "has_encoding_marker":  false
+                  },
+                  {
+                      "relative_path":  "08_血液系统疾病\\第049章_淋巴细胞疾病.md",
+                      "section":  "08_血液系统疾病",
+                      "file_name":  "第049章_淋巴细胞疾病.md",
+                      "size_bytes":  76177,
+                      "has_encoding_marker":  false
+                  },
+                  {
+                      "relative_path":  "08_血液系统疾病\\第050章_生理止血.md",
+                      "section":  "08_血液系统疾病",
+                      "file_name":  "第050章_生理止血.md",
+                      "size_bytes":  47450,
+                      "has_encoding_marker":  false
+                  },
+                  {
+                      "relative_path":  "08_血液系统疾病\\第051章_止血障碍_出血.md",
+                      "section":  "08_血液系统疾病",
+                      "file_name":  "第051章_止血障碍_出血.md",
+                      "size_bytes":  92783,
+                      "has_encoding_marker":  false
+                  },
+                  {
+                      "relative_path":  "08_血液系统疾病\\第052章_止血障碍_血栓.md",
+                      "section":  "08_血液系统疾病",
+                      "file_name":  "第052章_止血障碍_血栓.md",
+                      "size_bytes":  58881,
+                      "has_encoding_marker":  false
+                  },
+                  {
+                      "relative_path":  "09_肿瘤\\README.md",
+                      "section":  "09_肿瘤",
+                      "file_name":  "README.md",
+                      "size_bytes":  935,
+                      "has_encoding_marker":  false
+                  },
+                  {
+                      "relative_path":  "09_肿瘤\\第053章_肿瘤生物学.md",
+                      "section":  "09_肿瘤",
+                      "file_name":  "第053章_肿瘤生物学.md",
+                      "size_bytes":  12935,
+                      "has_encoding_marker":  false
+                  },
+                  {
+                      "relative_path":  "09_肿瘤\\第054章_肿瘤流行病学.md",
+                      "section":  "09_肿瘤",
+                      "file_name":  "第054章_肿瘤流行病学.md",
+                      "size_bytes":  21378,
+                      "has_encoding_marker":  false
+                  },
+                  {
+                      "relative_path":  "09_肿瘤\\第055章_肿瘤治疗的原则.md",
+                      "section":  "09_肿瘤",
+                      "file_name":  "第055章_肿瘤治疗的原则.md",
+                      "size_bytes":  34950,
+                      "has_encoding_marker":  false
+                  },
+                  {
+                      "relative_path":  "09_肿瘤\\第056章_肺癌.md",
+                      "section":  "09_肿瘤",
+                      "file_name":  "第056章_肺癌.md",
+                      "size_bytes":  31980,
+                      "has_encoding_marker":  false
+                  },
+                  {
+                      "relative_path":  "09_肿瘤\\第057章_胃肠系统肿瘤.md",
+                      "section":  "09_肿瘤",
+                      "file_name":  "第057章_胃肠系统肿瘤.md",
+                      "size_bytes":  26880,
+                      "has_encoding_marker":  false
+                  },
+                  {
+                      "relative_path":  "09_肿瘤\\第058章_泌尿生殖系统肿瘤.md",
+                      "section":  "09_肿瘤",
+                      "file_name":  "第058章_泌尿生殖系统肿瘤.md",
+                      "size_bytes":  28477,
+                      "has_encoding_marker":  false
+                  },
+                  {
+                      "relative_path":  "09_肿瘤\\第059章_乳腺癌.md",
+                      "section":  "09_肿瘤",
+                      "file_name":  "第059章_乳腺癌.md",
+                      "size_bytes":  13001,
+                      "has_encoding_marker":  false
+                  },
+                  {
+                      "relative_path":  "09_肿瘤\\第060章_其他实体肿瘤.md",
+                      "section":  "09_肿瘤",
+                      "file_name":  "第060章_其他实体肿瘤.md",
+                      "size_bytes":  23863,
+                      "has_encoding_marker":  false
+                  },
+                  {
+                      "relative_path":  "09_肿瘤\\第061章_肿瘤和肿瘤治疗并发症.md",
+                      "section":  "09_肿瘤",
+                      "file_name":  "第061章_肿瘤和肿瘤治疗并发症.md",
+                      "size_bytes":  24056,
+                      "has_encoding_marker":  false
+                  },
+                  {
+                      "relative_path":  "10_内分泌疾病与代谢性疾病\\README.md",
+                      "section":  "10_内分泌疾病与代谢性疾病",
+                      "file_name":  "README.md",
+                      "size_bytes":  1170,
+                      "has_encoding_marker":  false
+                  },
+                  {
+                      "relative_path":  "10_内分泌疾病与代谢性疾病\\第062章_下丘脑-垂体轴.md",
+                      "section":  "10_内分泌疾病与代谢性疾病",
+                      "file_name":  "第062章_下丘脑-垂体轴.md",
+                      "size_bytes":  46610,
+                      "has_encoding_marker":  false
+                  },
+                  {
+                      "relative_path":  "10_内分泌疾病与代谢性疾病\\第063章_甲状腺疾病.md",
+                      "section":  "10_内分泌疾病与代谢性疾病",
+                      "file_name":  "第063章_甲状腺疾病.md",
+                      "size_bytes":  49540,
+                      "has_encoding_marker":  false
+                  },
+                  {
+                      "relative_path":  "10_内分泌疾病与代谢性疾病\\第064章_肾上腺.md",
+                      "section":  "10_内分泌疾病与代谢性疾病",
+                      "file_name":  "第064章_肾上腺.md",
+                      "size_bytes":  41885,
+                      "has_encoding_marker":  false
+                  },
+                  {
+                      "relative_path":  "10_内分泌疾病与代谢性疾病\\第065章_男性生殖内分泌学.md",
+                      "section":  "10_内分泌疾病与代谢性疾病",
+                      "file_name":  "第065章_男性生殖内分泌学.md",
+                      "size_bytes":  19242,
+                      "has_encoding_marker":  false
+                  },
+                  {
+                      "relative_path":  "10_内分泌疾病与代谢性疾病\\第066章_糖尿病，低血糖症.md",
+                      "section":  "10_内分泌疾病与代谢性疾病",
+                      "file_name":  "第066章_糖尿病，低血糖症.md",
+                      "size_bytes":  92684,
+                      "has_encoding_marker":  false
+                  },
+                  {
+                      "relative_path":  "10_内分泌疾病与代谢性疾病\\第067章_肥胖症.md",
+                      "section":  "10_内分泌疾病与代谢性疾病",
+                      "file_name":  "第067章_肥胖症.md",
+                      "size_bytes":  39949,
+                      "has_encoding_marker":  false
+                  },
+                  {
+                      "relative_path":  "10_内分泌疾病与代谢性疾病\\第068章_住院成年人的营养不良、营养评估与营养支持.md",
+                      "section":  "10_内分泌疾病与代谢性疾病",
+                      "file_name":  "第068章_住院成年人的营养不良、营养评估与营养支持.md",
+                      "size_bytes":  35850,
+                      "has_encoding_marker":  false
+                  },
+                  {
+                      "relative_path":  "10_内分泌疾病与代谢性疾病\\第069章_脂代谢紊乱.md",
+                      "section":  "10_内分泌疾病与代谢性疾病",
+                      "file_name":  "第069章_脂代谢紊乱.md",
+                      "size_bytes":  42852,
+                      "has_encoding_marker":  false
+                  },
+                  {
+                      "relative_path":  "11_女性健康\\README.md",
+                      "section":  "11_女性健康",
+                      "file_name":  "README.md",
+                      "size_bytes":  354,
+                      "has_encoding_marker":  false
+                  },
+                  {
+                      "relative_path":  "11_女性健康\\第070章_女性的健康问题.md",
+                      "section":  "11_女性健康",
+                      "file_name":  "第070章_女性的健康问题.md",
+                      "size_bytes":  82358,
+                      "has_encoding_marker":  false
+                  },
+                  {
+                      "relative_path":  "12_男性健康\\README.md",
+                      "section":  "12_男性健康",
+                      "file_name":  "README.md",
+                      "size_bytes":  354,
+                      "has_encoding_marker":  false
+                  },
+                  {
+                      "relative_path":  "12_男性健康\\第071章_男性的健康问题.md",
+                      "section":  "12_男性健康",
+                      "file_name":  "第071章_男性的健康问题.md",
+                      "size_bytes":  82761,
+                      "has_encoding_marker":  false
+                  },
+                  {
+                      "relative_path":  "13_骨与骨矿物质代谢性疾病\\README.md",
+                      "section":  "13_骨与骨矿物质代谢性疾病",
+                      "file_name":  "README.md",
+                      "size_bytes":  723,
+                      "has_encoding_marker":  false
+                  },
+                  {
+                      "relative_path":  "13_骨与骨矿物质代谢性疾病\\第072章_骨矿盐平衡的正常生理.md",
+                      "section":  "13_骨与骨矿物质代谢性疾病",
+                      "file_name":  "第072章_骨矿盐平衡的正常生理.md",
+                      "size_bytes":  36049,
+                      "has_encoding_marker":  false
+                  },
+                  {
+                      "relative_path":  "13_骨与骨矿物质代谢性疾病\\第073章_血中矿物质的紊乱.md",
+                      "section":  "13_骨与骨矿物质代谢性疾病",
+                      "file_name":  "第073章_血中矿物质的紊乱.md",
+                      "size_bytes":  48061,
+                      "has_encoding_marker":  false
+                  },
+                  {
+                      "relative_path":  "13_骨与骨矿物质代谢性疾病\\第074章_代谢性骨病.md",
+                      "section":  "13_骨与骨矿物质代谢性疾病",
+                      "file_name":  "第074章_代谢性骨病.md",
+                      "size_bytes":  24171,
+                      "has_encoding_marker":  false
+                  },
+                  {
+                      "relative_path":  "13_骨与骨矿物质代谢性疾病\\第075章_骨质疏松症.md",
+                      "section":  "13_骨与骨矿物质代谢性疾病",
+                      "file_name":  "第075章_骨质疏松症.md",
+                      "size_bytes":  34719,
+                      "has_encoding_marker":  false
+                  },
+                  {
+                      "relative_path":  "14_肌肉骨骼与结缔组织疾病\\README.md",
+                      "section":  "14_肌肉骨骼与结缔组织疾病",
+                      "file_name":  "README.md",
+                      "size_bytes":  1415,
+                      "has_encoding_marker":  false
+                  },
+                  {
+                      "relative_path":  "14_肌肉骨骼与结缔组织疾病\\第076章_风湿病患者的处理.md",
+                      "section":  "14_肌肉骨骼与结缔组织疾病",
+                      "file_name":  "第076章_风湿病患者的处理.md",
+                      "size_bytes":  19509,
+                      "has_encoding_marker":  false
+                  },
+                  {
+                      "relative_path":  "14_肌肉骨骼与结缔组织疾病\\第077章_类风湿关节炎.md",
+                      "section":  "14_肌肉骨骼与结缔组织疾病",
+                      "file_name":  "第077章_类风湿关节炎.md",
+                      "size_bytes":  25470,
+                      "has_encoding_marker":  false
+                  },
+                  {
+                      "relative_path":  "14_肌肉骨骼与结缔组织疾病\\第078章_脊柱关节炎.md",
+                      "section":  "14_肌肉骨骼与结缔组织疾病",
+                      "file_name":  "第078章_脊柱关节炎.md",
+                      "size_bytes":  21711,
+                      "has_encoding_marker":  false
+                  },
+                  {
+                      "relative_path":  "14_肌肉骨骼与结缔组织疾病\\第079章_系统性红斑狼疮.md",
+                      "section":  "14_肌肉骨骼与结缔组织疾病",
+                      "file_name":  "第079章_系统性红斑狼疮.md",
+                      "size_bytes":  36420,
+                      "has_encoding_marker":  false
+                  },
+                  {
+                      "relative_path":  "14_肌肉骨骼与结缔组织疾病\\第080章_系统性硬化.md",
+                      "section":  "14_肌肉骨骼与结缔组织疾病",
+                      "file_name":  "第080章_系统性硬化.md",
+                      "size_bytes":  29291,
+                      "has_encoding_marker":  false
+                  },
+                  {
+                      "relative_path":  "14_肌肉骨骼与结缔组织疾病\\第081章_系统性血管炎.md",
+                      "section":  "14_肌肉骨骼与结缔组织疾病",
+                      "file_name":  "第081章_系统性血管炎.md",
+                      "size_bytes":  26515,
+                      "has_encoding_marker":  false
+                  },
+                  {
+                      "relative_path":  "14_肌肉骨骼与结缔组织疾病\\第082章_晶体性关节炎_痛风.md",
+                      "section":  "14_肌肉骨骼与结缔组织疾病",
+                      "file_name":  "第082章_晶体性关节炎_痛风.md",
+                      "size_bytes":  28143,
+                      "has_encoding_marker":  false
+                  },
+                  {
+                      "relative_path":  "14_肌肉骨骼与结缔组织疾病\\第083章_骨关节炎.md",
+                      "section":  "14_肌肉骨骼与结缔组织疾病",
+                      "file_name":  "第083章_骨关节炎.md",
+                      "size_bytes":  17396,
+                      "has_encoding_marker":  false
+                  },
+                  {
+                      "relative_path":  "14_肌肉骨骼与结缔组织疾病\\第084章_非关节性软组织疾病.md",
+                      "section":  "14_肌肉骨骼与结缔组织疾病",
+                      "file_name":  "第084章_非关节性软组织疾病.md",
+                      "size_bytes":  20018,
+                      "has_encoding_marker":  false
+                  },
+                  {
+                      "relative_path":  "14_肌肉骨骼与结缔组织疾病\\第085章_系统性疾病的风湿病样表现和干燥综合征.md",
+                      "section":  "14_肌肉骨骼与结缔组织疾病",
+                      "file_name":  "第085章_系统性疾病的风湿病样表现和干燥综合征.md",
+                      "size_bytes":  38457,
+                      "has_encoding_marker":  false
+                  },
+                  {
+                      "relative_path":  "15_感染性疾病\\README.md",
+                      "section":  "15_感染性疾病",
+                      "file_name":  "README.md",
+                      "size_bytes":  2009,
+                      "has_encoding_marker":  false
+                  },
+                  {
+                      "relative_path":  "15_感染性疾病\\第086章_宿主如何防御感染.md",
+                      "section":  "15_感染性疾病",
+                      "file_name":  "第086章_宿主如何防御感染.md",
+                      "size_bytes":  37900,
+                      "has_encoding_marker":  false
+                  },
+                  {
+                      "relative_path":  "15_感染性疾病\\第087章_感染性疾病的实验室诊断.md",
+                      "section":  "15_感染性疾病",
+                      "file_name":  "第087章_感染性疾病的实验室诊断.md",
+                      "size_bytes":  19834,
+                      "has_encoding_marker":  false
+                  },
+                  {
+                      "relative_path":  "15_感染性疾病\\第088章_发热与发热综合征.md",
+                      "section":  "15_感染性疾病",
+                      "file_name":  "第088章_发热与发热综合征.md",
+                      "size_bytes":  57840,
+                      "has_encoding_marker":  false
+                  },
+                  {
+                      "relative_path":  "15_感染性疾病\\第089章_菌血症与脓毒症.md",
+                      "section":  "15_感染性疾病",
+                      "file_name":  "第089章_菌血症与脓毒症.md",
+                      "size_bytes":  32450,
+                      "has_encoding_marker":  false
+                  },
+                  {
+                      "relative_path":  "15_感染性疾病\\第090章_中枢神经系统感染.md",
+                      "section":  "15_感染性疾病",
+                      "file_name":  "第090章_中枢神经系统感染.md",
+                      "size_bytes":  70836,
+                      "has_encoding_marker":  false
+                  },
+                  {
+                      "relative_path":  "15_感染性疾病\\第091章_头颈部感染.md",
+                      "section":  "15_感染性疾病",
+                      "file_name":  "第091章_头颈部感染.md",
+                      "size_bytes":  24277,
+                      "has_encoding_marker":  false
+                  },
+                  {
+                      "relative_path":  "15_感染性疾病\\第092章_下呼吸道感染.md",
+                      "section":  "15_感染性疾病",
+                      "file_name":  "第092章_下呼吸道感染.md",
+                      "size_bytes":  21139,
+                      "has_encoding_marker":  false
+                  },
+                  {
+                      "relative_path":  "15_感染性疾病\\第093章_心血管感染.md",
+                      "section":  "15_感染性疾病",
+                      "file_name":  "第093章_心血管感染.md",
+                      "size_bytes":  42019,
+                      "has_encoding_marker":  false
+                  },
+                  {
+                      "relative_path":  "15_感染性疾病\\第094章_皮肤软组织感染.md",
+                      "section":  "15_感染性疾病",
+                      "file_name":  "第094章_皮肤软组织感染.md",
+                      "size_bytes":  33614,
+                      "has_encoding_marker":  false
+                  },
+                  {
+                      "relative_path":  "15_感染性疾病\\第095章_腹腔感染.md",
+                      "section":  "15_感染性疾病",
+                      "file_name":  "第095章_腹腔感染.md",
+                      "size_bytes":  33831,
+                      "has_encoding_marker":  false
+                  },
+                  {
+                      "relative_path":  "15_感染性疾病\\第096章_感染性腹泻.md",
+                      "section":  "15_感染性疾病",
+                      "file_name":  "第096章_感染性腹泻.md",
+                      "size_bytes":  31600,
+                      "has_encoding_marker":  false
+                  },
+                  {
+                      "relative_path":  "15_感染性疾病\\第097章_骨和关节感染.md",
+                      "section":  "15_感染性疾病",
+                      "file_name":  "第097章_骨和关节感染.md",
+                      "size_bytes":  18689,
+                      "has_encoding_marker":  false
+                  },
+                  {
+                      "relative_path":  "15_感染性疾病\\第098章_尿路感染.md",
+                      "section":  "15_感染性疾病",
+                      "file_name":  "第098章_尿路感染.md",
+                      "size_bytes":  14383,
+                      "has_encoding_marker":  false
+                  },
+                  {
+                      "relative_path":  "15_感染性疾病\\第099章_医院相关性感染.md",
+                      "section":  "15_感染性疾病",
+                      "file_name":  "第099章_医院相关性感染.md",
+                      "size_bytes":  32652,
+                      "has_encoding_marker":  false
+                  },
+                  {
+                      "relative_path":  "15_感染性疾病\\第100章_性传播感染.md",
+                      "section":  "15_感染性疾病",
+                      "file_name":  "第100章_性传播感染.md",
+                      "size_bytes":  47477,
+                      "has_encoding_marker":  false
+                  },
+                  {
+                      "relative_path":  "15_感染性疾病\\第101章_人类免疫缺陷病毒与获得性免疫缺陷综合征.md",
+                      "section":  "15_感染性疾病",
+                      "file_name":  "第101章_人类免疫缺陷病毒与获得性免疫缺陷综合征.md",
+                      "size_bytes":  77527,
+                      "has_encoding_marker":  false
+                  },
+                  {
+                      "relative_path":  "15_感染性疾病\\第102章_免疫缺陷宿主中的感染.md",
+                      "section":  "15_感染性疾病",
+                      "file_name":  "第102章_免疫缺陷宿主中的感染.md",
+                      "size_bytes":  33269,
+                      "has_encoding_marker":  false
+                  },
+                  {
+                      "relative_path":  "15_感染性疾病\\第103章_旅行者中的感染性疾病_原虫和蠕虫感染.md",
+                      "section":  "15_感染性疾病",
+                      "file_name":  "第103章_旅行者中的感染性疾病_原虫和蠕虫感染.md",
+                      "size_bytes":  36656,
+                      "has_encoding_marker":  false
+                  },
+                  {
+                      "relative_path":  "16_神经疾病\\README.md",
+                      "section":  "16_神经疾病",
+                      "file_name":  "README.md",
+                      "size_bytes":  2162,
+                      "has_encoding_marker":  false
+                  },
+                  {
+                      "relative_path":  "16_神经疾病\\第104章_神经系统检查.md",
+                      "section":  "16_神经疾病",
+                      "file_name":  "第104章_神经系统检查.md",
+                      "size_bytes":  24440,
+                      "has_encoding_marker":  false
+                  },
+                  {
+                      "relative_path":  "16_神经疾病\\第105章_意识障碍.md",
+                      "section":  "16_神经疾病",
+                      "file_name":  "第105章_意识障碍.md",
+                      "size_bytes":  30409,
+                      "has_encoding_marker":  false
+                  },
+                  {
+                      "relative_path":  "16_神经疾病\\第106章_睡眠障碍.md",
+                      "section":  "16_神经疾病",
+                      "file_name":  "第106章_睡眠障碍.md",
+                      "size_bytes":  28659,
+                      "has_encoding_marker":  false
+                  },
+                  {
+                      "relative_path":  "16_神经疾病\\第107章_皮质综合征.md",
+                      "section":  "16_神经疾病",
+                      "file_name":  "第107章_皮质综合征.md",
+                      "size_bytes":  10891,
+                      "has_encoding_marker":  false
+                  },
+                  {
+                      "relative_path":  "16_神经疾病\\第108章_痴呆与记忆障碍.md",
+                      "section":  "16_神经疾病",
+                      "file_name":  "第108章_痴呆与记忆障碍.md",
+                      "size_bytes":  27319,
+                      "has_encoding_marker":  false
+                  },
+                  {
+                      "relative_path":  "16_神经疾病\\第109章_情绪、思维和行为障碍.md",
+                      "section":  "16_神经疾病",
+                      "file_name":  "第109章_情绪、思维和行为障碍.md",
+                      "size_bytes":  27660,
+                      "has_encoding_marker":  false
+                  },
+                  {
+                      "relative_path":  "16_神经疾病\\第110章_自主神经系统疾病.md",
+                      "section":  "16_神经疾病",
+                      "file_name":  "第110章_自主神经系统疾病.md",
+                      "size_bytes":  18997,
+                      "has_encoding_marker":  false
+                  },
+                  {
+                      "relative_path":  "16_神经疾病\\第111章_头痛、颈腰痛和脑神经痛.md",
+                      "section":  "16_神经疾病",
+                      "file_name":  "第111章_头痛、颈腰痛和脑神经痛.md",
+                      "size_bytes":  39860,
+                      "has_encoding_marker":  false
+                  },
+                  {
+                      "relative_path":  "16_神经疾病\\第112章_视力和听力障碍.md",
+                      "section":  "16_神经疾病",
+                      "file_name":  "第112章_视力和听力障碍.md",
+                      "size_bytes":  28430,
+                      "has_encoding_marker":  false
+                  },
+                  {
+                      "relative_path":  "16_神经疾病\\第113章_头晕和眩晕.md",
+                      "section":  "16_神经疾病",
+                      "file_name":  "第113章_头晕和眩晕.md",
+                      "size_bytes":  13497,
+                      "has_encoding_marker":  false
+                  },
+                  {
+                      "relative_path":  "16_神经疾病\\第114章_运动系统功能障碍.md",
+                      "section":  "16_神经疾病",
+                      "file_name":  "第114章_运动系统功能障碍.md",
+                      "size_bytes":  50856,
+                      "has_encoding_marker":  false
+                  },
+                  {
+                      "relative_path":  "16_神经疾病\\第115章_先天性、发育性及神经皮肤疾病.md",
+                      "section":  "16_神经疾病",
+                      "file_name":  "第115章_先天性、发育性及神经皮肤疾病.md",
+                      "size_bytes":  39864,
+                      "has_encoding_marker":  false
+                  },
+                  {
+                      "relative_path":  "16_神经疾病\\第116章_脑血管疾病.md",
+                      "section":  "16_神经疾病",
+                      "file_name":  "第116章_脑血管疾病.md",
+                      "size_bytes":  59311,
+                      "has_encoding_marker":  false
+                  },
+                  {
+                      "relative_path":  "16_神经疾病\\第117章_创伤性脑损伤和脊髓损伤.md",
+                      "section":  "16_神经疾病",
+                      "file_name":  "第117章_创伤性脑损伤和脊髓损伤.md",
+                      "size_bytes":  26162,
+                      "has_encoding_marker":  false
+                  },
+                  {
+                      "relative_path":  "16_神经疾病\\第118章_癫痫.md",
+                      "section":  "16_神经疾病",
+                      "file_name":  "第118章_癫痫.md",
+                      "size_bytes":  71181,
+                      "has_encoding_marker":  false
+                  },
+                  {
+                      "relative_path":  "16_神经疾病\\第119章_中枢神经系统肿瘤.md",
+                      "section":  "16_神经疾病",
+                      "file_name":  "第119章_中枢神经系统肿瘤.md",
+                      "size_bytes":  20150,
+                      "has_encoding_marker":  false
+                  },
+                  {
+                      "relative_path":  "16_神经疾病\\第120章_脱髓鞘和炎症性疾病.md",
+                      "section":  "16_神经疾病",
+                      "file_name":  "第120章_脱髓鞘和炎症性疾病.md",
+                      "size_bytes":  38555,
+                      "has_encoding_marker":  false
+                  },
+                  {
+                      "relative_path":  "16_神经疾病\\第121章_神经肌肉疾病_运动神经元及神经丛疾病和周围神经病.md",
+                      "section":  "16_神经疾病",
+                      "file_name":  "第121章_神经肌肉疾病_运动神经元及神经丛疾病和周围神经病.md",
+                      "size_bytes":  52528,
+                      "has_encoding_marker":  false
+                  },
+                  {
+                      "relative_path":  "16_神经疾病\\第122章_骨骼肌疾病.md",
+                      "section":  "16_神经疾病",
+                      "file_name":  "第122章_骨骼肌疾病.md",
+                      "size_bytes":  52155,
+                      "has_encoding_marker":  false
+                  },
+                  {
+                      "relative_path":  "16_神经疾病\\第123章_神经肌肉接头病.md",
+                      "section":  "16_神经疾病",
+                      "file_name":  "第123章_神经肌肉接头病.md",
+                      "size_bytes":  16245,
+                      "has_encoding_marker":  false
+                  },
+                  {
+                      "relative_path":  "17_老年病学\\README.md",
+                      "section":  "17_老年病学",
+                      "file_name":  "README.md",
+                      "size_bytes":  337,
+                      "has_encoding_marker":  false
+                  },
+                  {
+                      "relative_path":  "17_老年病学\\第124章_老年患者.md",
+                      "section":  "17_老年病学",
+                      "file_name":  "第124章_老年患者.md",
+                      "size_bytes":  30660,
+                      "has_encoding_marker":  false
+                  },
+                  {
+                      "relative_path":  "998专题\\待整理\\欢迎.md",
+                      "section":  "998专题",
+                      "file_name":  "欢迎.md",
+                      "size_bytes":  221,
+                      "has_encoding_marker":  false
+                  },
+                  {
+                      "relative_path":  "998专题\\待整理\\西氏内科学精要_全书_总目录_原始编码异常.md",
+                      "section":  "998专题",
+                      "file_name":  "西氏内科学精要_全书_总目录_原始编码异常.md",
+                      "size_bytes":  18243,
+                      "has_encoding_marker":  false
+                  }
+              ]
+}

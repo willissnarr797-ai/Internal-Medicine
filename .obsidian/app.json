@@ -1,0 +1,13 @@
+{
+  "alwaysUpdateLinks": true,
+  "showLineNumber": true,
+  "attachmentFolderPath": "999_附件文件夹",
+  "newFileLocation": "current",
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "Letter",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  }
+}

@@ -1,0 +1,18 @@
+# Obsidian machine-local UI state
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.trash/
+
+# Local temporary and cache files
+tmp/
+**/__pycache__/
+*.py[cod]
+*.codex-tmp
+
+# Keep source PDFs local; do not deploy them to GitHub.
+*.pdf
+
+# Operating-system metadata
+.DS_Store
+Thumbs.db
+desktop.ini

@@ -1,0 +1,6 @@
+# Keep binary assets out of textual diff/merge handling.
+*.png -text
+*.jpg -text
+*.jpeg -text
+*.webp -text
+*.gif -text

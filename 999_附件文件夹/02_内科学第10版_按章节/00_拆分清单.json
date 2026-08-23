@@ -1,0 +1,1657 @@
+{
+  "schema_version": "internal-medicine-10e-flat-chapters-v1",
+  "book": "内科学 第10版",
+  "source_order": [
+    "5_内科学.md",
+    "4_内科学.md",
+    "3_内科学.md",
+    "2_内科学.md",
+    "1_内科学.md"
+  ],
+  "source_baselines": {
+    "1_内科学.md": {
+      "lines": 5601,
+      "bytes": 661370,
+      "sha256": "437ffb956e5e6b15b5c3eb26b00f7f71eba99625fb5443d8c208d1824e14d409"
+    },
+    "2_内科学.md": {
+      "lines": 4954,
+      "bytes": 777787,
+      "sha256": "0460f9989fe1a6387a68282e4a0966819e0d31a2eddecaa398ee69576ce34851"
+    },
+    "3_内科学.md": {
+      "lines": 5502,
+      "bytes": 741717,
+      "sha256": "5a8cafa5b9174bf477ef303be4cda114d86fa2befcbb926e12866f4a5820fbd1"
+    },
+    "4_内科学.md": {
+      "lines": 5275,
+      "bytes": 732736,
+      "sha256": "effbed98d87e4dc87706cc3b8cc1ff64e01a12e5372fdeb42fa18d86c33f0ac9"
+    },
+    "5_内科学.md": {
+      "lines": 4901,
+      "bytes": 701193,
+      "sha256": "5682ccaf9b8a66ca6d7f157a9218985f904110df7a090d52c04e64c124041f49"
+    }
+  },
+  "pdf_sha256": "c0bb559fa2c8448a54612f7edf751c9342df584d15ce90d0cf7e4f97bf852d78",
+  "heading_rules_version": "pdf-font-evidence-v2",
+  "chapter_count": 131,
+  "appendix_count": 11,
+  "derived_markdown": [
+    {
+      "relative_path": "00_来源与拆分记录.md",
+      "bytes": 38720,
+      "sha256": "006d0e37f69e76fd7e03c6484d604fafe0c066e566ad50717d4b261f8c05c55e",
+      "chapter_number": null,
+      "source_ranges": [],
+      "pdf_pages": null,
+      "heading_rules_version": "pdf-font-evidence-v2"
+    },
+    {
+      "relative_path": "00_标题层次修复记录.md",
+      "bytes": 1709,
+      "sha256": "ecc6c81efcd8ae8b697577188473435a22b444d0f067941b54a1a0f7a066b8cb",
+      "chapter_number": null,
+      "source_ranges": [],
+      "pdf_pages": null,
+      "heading_rules_version": "pdf-font-evidence-v2"
+    },
+    {
+      "relative_path": "00_章节导航.md",
+      "bytes": 11716,
+      "sha256": "11acbe95a712191df0c30c91f392135ff940ac8cd2120eeb04e80e14cf654459",
+      "chapter_number": null,
+      "source_ranges": [],
+      "pdf_pages": null,
+      "heading_rules_version": "pdf-font-evidence-v2"
+    },
+    {
+      "relative_path": "90_附录/01_前置页.md",
+      "bytes": 54626,
+      "sha256": "bf9e3e07b445853d39507b5b0033e3d1c23d2643ca42448184fa78921ee9479b",
+      "chapter_number": null,
+      "source_ranges": [
+        "5_内科学.md:1-875"
+      ],
+      "pdf_pages": null,
+      "heading_rules_version": "pdf-font-evidence-v2"
+    },
+    {
+      "relative_path": "90_附录/02_第二篇_推荐阅读.md",
+      "bytes": 3215,
+      "sha256": "5d38718bac18f69a0444db277d39aa744d86161b0233eff403f3a2f14ea9c322",
+      "chapter_number": null,
+      "source_ranges": [
+        "5_内科学.md:4865-4900"
+      ],
+      "pdf_pages": null,
+      "heading_rules_version": "pdf-font-evidence-v2"
+    },
+    {
+      "relative_path": "90_附录/03_第三篇_推荐阅读.md",
+      "bytes": 2837,
+      "sha256": "d5550aa141cf76030bf90baacefabe9f3600b633a5d9df2b33027e75c55b4911",
+      "chapter_number": null,
+      "source_ranges": [
+        "4_内科学.md:4837-4864"
+      ],
+      "pdf_pages": null,
+      "heading_rules_version": "pdf-font-evidence-v2"
+    },
+    {
+      "relative_path": "90_附录/04_第四篇_推荐阅读.md",
+      "bytes": 1951,
+      "sha256": "0c6a9664e58d4ae6b57f346afe80f65dd86e2fc3d23de99e4516322f723737a0",
+      "chapter_number": null,
+      "source_ranges": [
+        "3_内科学.md:2750-2775"
+      ],
+      "pdf_pages": null,
+      "heading_rules_version": "pdf-font-evidence-v2"
+    },
+    {
+      "relative_path": "90_附录/05_第五篇_推荐阅读.md",
+      "bytes": 782,
+      "sha256": "dbc359e49fc6e0c9793d6cb0660d827799397d058b89bf72d715306f2814e79a",
+      "chapter_number": null,
+      "source_ranges": [
+        "3_内科学.md:4656-4665"
+      ],
+      "pdf_pages": null,
+      "heading_rules_version": "pdf-font-evidence-v2"
+    },
+    {
+      "relative_path": "90_附录/06_第六篇_推荐阅读.md",
+      "bytes": 1276,
+      "sha256": "6da7b84985e9add8e0a4ea00a3bb2862076929f086beac89994b699bfafae045",
+      "chapter_number": null,
+      "source_ranges": [
+        "2_内科学.md:2043-2058"
+      ],
+      "pdf_pages": null,
+      "heading_rules_version": "pdf-font-evidence-v2"
+    },
+    {
+      "relative_path": "90_附录/07_第七篇_推荐阅读.md",
+      "bytes": 1230,
+      "sha256": "89fc4614dad5fa577e6d7383c065151fc69cd7a731937b9fd620ce24d1e78c22",
+      "chapter_number": null,
+      "source_ranges": [
+        "1_内科学.md:945-960"
+      ],
+      "pdf_pages": null,
+      "heading_rules_version": "pdf-font-evidence-v2"
+    },
+    {
+      "relative_path": "90_附录/08_第八篇_推荐阅读.md",
+      "bytes": 723,
+      "sha256": "922697710d86981280a258f85f79e8c31c3891a663a491ea917f03194ec2618a",
+      "chapter_number": null,
+      "source_ranges": [
+        "1_内科学.md:2545-2552"
+      ],
+      "pdf_pages": null,
+      "heading_rules_version": "pdf-font-evidence-v2"
+    },
+    {
+      "relative_path": "90_附录/09_第九篇_推荐阅读.md",
+      "bytes": 1300,
+      "sha256": "a65df0bde19d549927cd2db324e85aaf451759ad812c0d32be87af84e19c708e",
+      "chapter_number": null,
+      "source_ranges": [
+        "1_内科学.md:4305-4320"
+      ],
+      "pdf_pages": null,
+      "heading_rules_version": "pdf-font-evidence-v2"
+    },
+    {
+      "relative_path": "90_附录/10_中英文名词对照索引.md",
+      "bytes": 37431,
+      "sha256": "2bdffb03d1e88dc56b17b726a165292ae66d796f68e7353366e811d4f4eba434",
+      "chapter_number": null,
+      "source_ranges": [
+        "1_内科学.md:4321-5496"
+      ],
+      "pdf_pages": null,
+      "heading_rules_version": "pdf-font-evidence-v2"
+    },
+    {
+      "relative_path": "90_附录/11_彩图与后置页.md",
+      "bytes": 5636,
+      "sha256": "e420b1bec6774fbb540ac99d55c74c5c6f39c5bedb97963f9dbd49c22ee89e0c",
+      "chapter_number": null,
+      "source_ranges": [
+        "1_内科学.md:5497-5601"
+      ],
+      "pdf_pages": null,
+      "heading_rules_version": "pdf-font-evidence-v2"
+    },
+    {
+      "relative_path": "第001章_第一篇_绪论.md",
+      "bytes": 26765,
+      "sha256": "19530ac663c681b0c35698a45186c8762fdeb01fe7432784c0120cff72b90df0",
+      "chapter_number": 1,
+      "source_ranges": [
+        "5_内科学.md:876-959"
+      ],
+      "pdf_pages": "32-39",
+      "heading_rules_version": "pdf-font-evidence-v2"
+    },
+    {
+      "relative_path": "第002章_第2篇第01章_总论.md",
+      "bytes": 30049,
+      "sha256": "fbb2f081428b2ed23e8b02bf0665dbda22c7faedf9b3ce744d6ec03ec43d5c9e",
+      "chapter_number": 2,
+      "source_ranges": [
+        "5_内科学.md:960-1124"
+      ],
+      "pdf_pages": "41-48",
+      "heading_rules_version": "pdf-font-evidence-v2"
+    },
+    {
+      "relative_path": "第003章_第2篇第02章_急性上呼吸道感染和急性气管支气管炎.md",
+      "bytes": 21162,
+      "sha256": "35eec1c1877114b5ecc28d588c00b473d137aec170d427f558dd8895ea9f05f5",
+      "chapter_number": 3,
+      "source_ranges": [
+        "5_内科学.md:1125-1257"
+      ],
+      "pdf_pages": "49-53",
+      "heading_rules_version": "pdf-font-evidence-v2"
+    },
+    {
+      "relative_path": "第004章_第2篇第03章_慢性阻塞性肺疾病.md",
+      "bytes": 32397,
+      "sha256": "ffcf0ac1c5a1a05104270c0304fc73640988e70fc35a63f6a4887eade81cc7de",
+      "chapter_number": 4,
+      "source_ranges": [
+        "5_内科学.md:1258-1516"
+      ],
+      "pdf_pages": "54-61",
+      "heading_rules_version": "pdf-font-evidence-v2"
+    },
+    {
+      "relative_path": "第005章_第2篇第04章_支气管哮喘.md",
+      "bytes": 34628,
+      "sha256": "1b3cd6adfdde5cff9e756a77d70e44230679f74df2c21c147b0bf13f8b00aa24",
+      "chapter_number": 5,
+      "source_ranges": [
+        "5_内科学.md:1517-1716"
+      ],
+      "pdf_pages": "62-70",
+      "heading_rules_version": "pdf-font-evidence-v2"
+    },
+    {
+      "relative_path": "第006章_第2篇第05章_支气管扩张症.md",
+      "bytes": 23064,
+      "sha256": "c76cbb1cc8f038c4dfc2d97b171161b5657b4fb20aab52dd21676e92f535f43e",
+      "chapter_number": 6,
+      "source_ranges": [
+        "5_内科学.md:1717-1841"
+      ],
+      "pdf_pages": "71-76",
+      "heading_rules_version": "pdf-font-evidence-v2"
+    },
+    {
+      "relative_path": "第007章_第2篇第06章_肺部感染性疾病.md",
+      "bytes": 100090,
+      "sha256": "ab2fcae78f635c2bbc63b9997a876e00d537db14735bf38e3fcb729fc482cddc",
+      "chapter_number": 7,
+      "source_ranges": [
+        "5_内科学.md:1842-2342"
+      ],
+      "pdf_pages": "77-98",
+      "heading_rules_version": "pdf-font-evidence-v2"
+    },
+    {
+      "relative_path": "第008章_第2篇第07章_肺脓肿.md",
+      "bytes": 14076,
+      "sha256": "372e43daf167fdb599f5adbec77f275cae2067e91b7a7f1dc33c97aca38defca",
+      "chapter_number": 8,
+      "source_ranges": [
+        "5_内科学.md:2343-2410"
+      ],
+      "pdf_pages": "99-101",
+      "heading_rules_version": "pdf-font-evidence-v2"
+    },
+    {
+      "relative_path": "第009章_第2篇第08章_肺结核.md",
+      "bytes": 59530,
+      "sha256": "20e2092d4961c1ece5802403f453381ce6300aa001f4c25742369d27feea6578",
+      "chapter_number": 9,
+      "source_ranges": [
+        "5_内科学.md:2411-2784"
+      ],
+      "pdf_pages": "102-116",
+      "heading_rules_version": "pdf-font-evidence-v2"
+    },
+    {
+      "relative_path": "第010章_第2篇第09章_肺癌.md",
+      "bytes": 52220,
+      "sha256": "4d0e001cd91e9d20714eb83eeff5e6ec401cfc1ffa03db880aff41e5829f895c",
+      "chapter_number": 10,
+      "source_ranges": [
+        "5_内科学.md:2785-3125"
+      ],
+      "pdf_pages": "117-129",
+      "heading_rules_version": "pdf-font-evidence-v2"
+    },
+    {
+      "relative_path": "第011章_第2篇第10章_间质性肺疾病.md",
+      "bytes": 38547,
+      "sha256": "5f35176be4395a32faf255d58115bf156a2837371570a183eaad34320b9a9a0f",
+      "chapter_number": 11,
+      "source_ranges": [
+        "5_内科学.md:3126-3400"
+      ],
+      "pdf_pages": "130-140",
+      "heading_rules_version": "pdf-font-evidence-v2"
+    },
+    {
+      "relative_path": "第012章_第2篇第11章_肺血栓栓塞症.md",
+      "bytes": 30352,
+      "sha256": "f3f3bd9cc4539b1834d54813a629bf85f9dd8186af5651052f3016861be661c0",
+      "chapter_number": 12,
+      "source_ranges": [
+        "5_内科学.md:3401-3633"
+      ],
+      "pdf_pages": "141-148",
+      "heading_rules_version": "pdf-font-evidence-v2"
+    },
+    {
+      "relative_path": "第013章_第2篇第12章_肺动脉高压.md",
+      "bytes": 31267,
+      "sha256": "4b348b8bf687fbb0d8a1eb6b01c1cbde555f1edc48ebcdda2bf50c190eba3832",
+      "chapter_number": 13,
+      "source_ranges": [
+        "5_内科学.md:3634-3895"
+      ],
+      "pdf_pages": "149-156",
+      "heading_rules_version": "pdf-font-evidence-v2"
+    },
+    {
+      "relative_path": "第014章_第2篇第13章_胸膜疾病.md",
+      "bytes": 49498,
+      "sha256": "d5fe25d3c469499e17132e89ef0e6adb0ab67a60352f5fc7194d4889faca1b06",
+      "chapter_number": 14,
+      "source_ranges": [
+        "5_内科学.md:3896-4202"
+      ],
+      "pdf_pages": "157-168",
+      "heading_rules_version": "pdf-font-evidence-v2"
+    },
+    {
+      "relative_path": "第015章_第2篇第14章_睡眠呼吸障碍.md",
+      "bytes": 17015,
+      "sha256": "e74d11dafe6597a3a506e03a8fb9b6c36544b4d22e149e10250763a3da567ec5",
+      "chapter_number": 15,
+      "source_ranges": [
+        "5_内科学.md:4203-4320"
+      ],
+      "pdf_pages": "169-173",
+      "heading_rules_version": "pdf-font-evidence-v2"
+    },
+    {
+      "relative_path": "第016章_第2篇第15章_急性呼吸窘迫综合征.md",
+      "bytes": 21710,
+      "sha256": "b66e7cbcac4c3d865c67173b07ff99b5cddd3d93d614f539e0612073c54bb076",
+      "chapter_number": 16,
+      "source_ranges": [
+        "5_内科学.md:4321-4440"
+      ],
+      "pdf_pages": "174-178",
+      "heading_rules_version": "pdf-font-evidence-v2"
+    },
+    {
+      "relative_path": "第017章_第2篇第16章_呼吸衰竭与呼吸支持技术.md",
+      "bytes": 61666,
+      "sha256": "bd84da14b0a37e151127c2cadc13e1ea4b42f305a07e092b46899fcb15a6d134",
+      "chapter_number": 17,
+      "source_ranges": [
+        "5_内科学.md:4441-4784"
+      ],
+      "pdf_pages": "179-194",
+      "heading_rules_version": "pdf-font-evidence-v2"
+    },
+    {
+      "relative_path": "第018章_第2篇第17章_烟草病学概要.md",
+      "bytes": 15364,
+      "sha256": "3bbc1f5e81a953d9abdbc1879e0f9d4a12f7c93cc9a45021f883b36990e8f4a4",
+      "chapter_number": 18,
+      "source_ranges": [
+        "5_内科学.md:4785-4864"
+      ],
+      "pdf_pages": "195-198",
+      "heading_rules_version": "pdf-font-evidence-v2"
+    },
+    {
+      "relative_path": "第019章_第3篇第01章_总论.md",
+      "bytes": 23306,
+      "sha256": "23f5d93b6090289640bec3ed8cbca8d60d66a886c23a54be5f46385211f6026c",
+      "chapter_number": 19,
+      "source_ranges": [
+        "5_内科学.md:4901-4901",
+        "4_内科学.md:1-183"
+      ],
+      "pdf_pages": "201-206",
+      "heading_rules_version": "pdf-font-evidence-v2"
+    },
+    {
+      "relative_path": "第020章_第3篇第02章_心力衰竭.md",
+      "bytes": 54144,
+      "sha256": "0de946a8659d05ec417a2dc5e44f0e484adb43c8a62d859611b1a2d53c67c4d9",
+      "chapter_number": 20,
+      "source_ranges": [
+        "4_内科学.md:184-622"
+      ],
+      "pdf_pages": "207-220",
+      "heading_rules_version": "pdf-font-evidence-v2"
+    },
+    {
+      "relative_path": "第021章_第3篇第03章_心律失常.md",
+      "bytes": 137530,
+      "sha256": "d2f2d70c3b8188f5985184c4cb143cc35324cdd288f5c2e14f52b45010343010",
+      "chapter_number": 21,
+      "source_ranges": [
+        "4_内科学.md:623-1423"
+      ],
+      "pdf_pages": "221-257",
+      "heading_rules_version": "pdf-font-evidence-v2"
+    },
+    {
+      "relative_path": "第022章_第3篇第04章_动脉粥样硬化和冠状动脉粥样硬化性心脏病.md",
+      "bytes": 127274,
+      "sha256": "516e9e29d8c9c00f2e551517ae011d92381a76bcd9883f3f9d1c27bdd0bc85de",
+      "chapter_number": 22,
+      "source_ranges": [
+        "4_内科学.md:1424-2305"
+      ],
+      "pdf_pages": "258-290",
+      "heading_rules_version": "pdf-font-evidence-v2"
+    },
+    {
+      "relative_path": "第023章_第3篇第05章_高血压.md",
+      "bytes": 61499,
+      "sha256": "1da7ee5fcb1d9d4da567afbf8f5213690c4d26abebcf2117dfc245f8c56c59de",
+      "chapter_number": 23,
+      "source_ranges": [
+        "4_内科学.md:2306-2593"
+      ],
+      "pdf_pages": "291-305",
+      "heading_rules_version": "pdf-font-evidence-v2"
+    },
+    {
+      "relative_path": "第024章_第3篇第06章_心肌疾病.md",
+      "bytes": 44151,
+      "sha256": "e0abd0e6fd952fc4a67da4004d6defc7baffe2e36dd9585850d53436561c21bc",
+      "chapter_number": 24,
+      "source_ranges": [
+        "4_内科学.md:2594-3037"
+      ],
+      "pdf_pages": "306-318",
+      "heading_rules_version": "pdf-font-evidence-v2"
+    },
+    {
+      "relative_path": "第025章_第3篇第07章_先天性心血管病.md",
+      "bytes": 36816,
+      "sha256": "6e548f6e7a0d2e91587111fafbe3ef817effae91ccd5c3fd507fa33cb593c945",
+      "chapter_number": 25,
+      "source_ranges": [
+        "4_内科学.md:3038-3492"
+      ],
+      "pdf_pages": "319-329",
+      "heading_rules_version": "pdf-font-evidence-v2"
+    },
+    {
+      "relative_path": "第026章_第3篇第08章_心脏瓣膜病.md",
+      "bytes": 68610,
+      "sha256": "e6dc80692c61cc4cefbaa39a42aa20029f18a0a2fd42bdb5e2079d659cb2d8c8",
+      "chapter_number": 26,
+      "source_ranges": [
+        "4_内科学.md:3493-3889"
+      ],
+      "pdf_pages": "330-345",
+      "heading_rules_version": "pdf-font-evidence-v2"
+    },
+    {
+      "relative_path": "第027章_第3篇第09章_心包疾病.md",
+      "bytes": 22556,
+      "sha256": "08c5a3282ab4f7d35d7a0afc5c50d8880530677258fe4ca45e709c835f7e086e",
+      "chapter_number": 27,
+      "source_ranges": [
+        "4_内科学.md:3890-4026"
+      ],
+      "pdf_pages": "346-351",
+      "heading_rules_version": "pdf-font-evidence-v2"
+    },
+    {
+      "relative_path": "第028章_第3篇第10章_感染性心内膜炎.md",
+      "bytes": 26217,
+      "sha256": "4813bceb6ad48e0de77f0ac58069eef46a77b7a7382753ccd8a157a27c322f42",
+      "chapter_number": 28,
+      "source_ranges": [
+        "4_内科学.md:4027-4236"
+      ],
+      "pdf_pages": "352-358",
+      "heading_rules_version": "pdf-font-evidence-v2"
+    },
+    {
+      "relative_path": "第029章_第3篇第11章_心脏骤停与心脏性猝死.md",
+      "bytes": 24974,
+      "sha256": "526b96ae493af11d0027196e26995ad01124f079cc4c67dbd0eab63c9c5ca2db",
+      "chapter_number": 29,
+      "source_ranges": [
+        "4_内科学.md:4237-4378"
+      ],
+      "pdf_pages": "359-365",
+      "heading_rules_version": "pdf-font-evidence-v2"
+    },
+    {
+      "relative_path": "第030章_第3篇第12章_主动脉和周围血管病.md",
+      "bytes": 25622,
+      "sha256": "e8d64ff58ecd29d624ea7f14b4d2c1c75158d67675a082f8656d42a82bf6a399",
+      "chapter_number": 30,
+      "source_ranges": [
+        "4_内科学.md:4379-4582"
+      ],
+      "pdf_pages": "366-372",
+      "heading_rules_version": "pdf-font-evidence-v2"
+    },
+    {
+      "relative_path": "第031章_第3篇第13章_心血管神经症.md",
+      "bytes": 6475,
+      "sha256": "8936e76d17d9fa4c329fcab4743ae9ab9cef93f4b9b5997a1f4376dc127595e2",
+      "chapter_number": 31,
+      "source_ranges": [
+        "4_内科学.md:4583-4615"
+      ],
+      "pdf_pages": "373-374",
+      "heading_rules_version": "pdf-font-evidence-v2"
+    },
+    {
+      "relative_path": "第032章_第3篇第14章_肿瘤心脏病学.md",
+      "bytes": 21454,
+      "sha256": "3afd10f64fc6fd69fcf07c95703783cc04b387f9929c7fd6248482b3ba7178ff",
+      "chapter_number": 32,
+      "source_ranges": [
+        "4_内科学.md:4616-4724"
+      ],
+      "pdf_pages": "375-380",
+      "heading_rules_version": "pdf-font-evidence-v2"
+    },
+    {
+      "relative_path": "第033章_第3篇第15章_其他心血管疾病.md",
+      "bytes": 12819,
+      "sha256": "ea55fee23580a66da6603837cf8923acc8728037da06e12533257c5661ff43cb",
+      "chapter_number": 33,
+      "source_ranges": [
+        "4_内科学.md:4725-4836"
+      ],
+      "pdf_pages": "381-384",
+      "heading_rules_version": "pdf-font-evidence-v2"
+    },
+    {
+      "relative_path": "第034章_第4篇第01章_总论.md",
+      "bytes": 29332,
+      "sha256": "280ad06a56a7ba2004e04b815fb90897bd0ee594db6fbb367d9b50da6f8b33d9",
+      "chapter_number": 34,
+      "source_ranges": [
+        "4_内科学.md:4865-5033"
+      ],
+      "pdf_pages": "387-393",
+      "heading_rules_version": "pdf-font-evidence-v2"
+    },
+    {
+      "relative_path": "第035章_第4篇第02章_胃食管反流病.md",
+      "bytes": 10845,
+      "sha256": "77cc526aefa859b1b3a3f29047a76335f9cd225364da3c0979d8fb407882bf16",
+      "chapter_number": 35,
+      "source_ranges": [
+        "4_内科学.md:5034-5144"
+      ],
+      "pdf_pages": "394-396",
+      "heading_rules_version": "pdf-font-evidence-v2"
+    },
+    {
+      "relative_path": "第036章_第4篇第03章_食管癌.md",
+      "bytes": 10039,
+      "sha256": "3ac2cca6fae10167aac39ae97407bae84f973363117a95957bc7146552fd1f5b",
+      "chapter_number": 36,
+      "source_ranges": [
+        "4_内科学.md:5145-5245"
+      ],
+      "pdf_pages": "397-399",
+      "heading_rules_version": "pdf-font-evidence-v2"
+    },
+    {
+      "relative_path": "第037章_第4篇第04章_胃炎.md",
+      "bytes": 18577,
+      "sha256": "82548888a7f39070e636cdc2b8007dec89b66875581b09aabb18035924143f83",
+      "chapter_number": 37,
+      "source_ranges": [
+        "4_内科学.md:5246-5275",
+        "3_内科学.md:1-108"
+      ],
+      "pdf_pages": "400-404",
+      "heading_rules_version": "pdf-font-evidence-v2"
+    },
+    {
+      "relative_path": "第038章_第4篇第05章_消化性溃疡.md",
+      "bytes": 19684,
+      "sha256": "d4fe3e27590f93ae6195ec0dffc1890ec4441110c5e764455f7ce8b857633b6d",
+      "chapter_number": 38,
+      "source_ranges": [
+        "3_内科学.md:109-256"
+      ],
+      "pdf_pages": "405-409",
+      "heading_rules_version": "pdf-font-evidence-v2"
+    },
+    {
+      "relative_path": "第039章_第4篇第06章_胃癌.md",
+      "bytes": 13719,
+      "sha256": "b8bf56cb9852ab76f9964334f86630974ec5968791d1ae6748b7f607603ee880",
+      "chapter_number": 39,
+      "source_ranges": [
+        "3_内科学.md:257-356"
+      ],
+      "pdf_pages": "410-413",
+      "heading_rules_version": "pdf-font-evidence-v2"
+    },
+    {
+      "relative_path": "第040章_第4篇第07章_肠结核和结核性腹膜炎.md",
+      "bytes": 16468,
+      "sha256": "bc53aa18f5de74bc9b26ab8e6d2407b44a0ec9d382aebc762d00c7c966549146",
+      "chapter_number": 40,
+      "source_ranges": [
+        "3_内科学.md:357-505"
+      ],
+      "pdf_pages": "414-418",
+      "heading_rules_version": "pdf-font-evidence-v2"
+    },
+    {
+      "relative_path": "第041章_第4篇第08章_炎症性肠病.md",
+      "bytes": 28726,
+      "sha256": "4c3a3d6cd5ae9017beb4fd71984ba304fc187be51c7492f02dc21a37e04bf153",
+      "chapter_number": 41,
+      "source_ranges": [
+        "3_内科学.md:506-740"
+      ],
+      "pdf_pages": "419-425",
+      "heading_rules_version": "pdf-font-evidence-v2"
+    },
+    {
+      "relative_path": "第042章_第4篇第09章_结直肠癌.md",
+      "bytes": 13253,
+      "sha256": "3d60da9c43433f312ee9b5e5769b62f3e91e2a6e1d939b34f44739f450208a56",
+      "chapter_number": 42,
+      "source_ranges": [
+        "3_内科学.md:741-831"
+      ],
+      "pdf_pages": "426-428",
+      "heading_rules_version": "pdf-font-evidence-v2"
+    },
+    {
+      "relative_path": "第043章_第4篇第10章_功能性胃肠病.md",
+      "bytes": 13937,
+      "sha256": "91902789df0b9032ec386e02a7e2b217bf54d9317fff5635aa953d3499a330fa",
+      "chapter_number": 43,
+      "source_ranges": [
+        "3_内科学.md:832-947"
+      ],
+      "pdf_pages": "429-432",
+      "heading_rules_version": "pdf-font-evidence-v2"
+    },
+    {
+      "relative_path": "第044章_第4篇第11章_病毒性肝炎.md",
+      "bytes": 12841,
+      "sha256": "9669469053595a67eb2202e33242f57386f11973c3b26a2b2ea2d0f6dfd3957e",
+      "chapter_number": 44,
+      "source_ranges": [
+        "3_内科学.md:948-1040"
+      ],
+      "pdf_pages": "433-435",
+      "heading_rules_version": "pdf-font-evidence-v2"
+    },
+    {
+      "relative_path": "第045章_第4篇第12章_脂肪性肝病.md",
+      "bytes": 15688,
+      "sha256": "5aff698c061e616bf9605a969a323f0cfd7e95a9f825040c346a7de67614c1a7",
+      "chapter_number": 45,
+      "source_ranges": [
+        "3_内科学.md:1041-1139"
+      ],
+      "pdf_pages": "436-439",
+      "heading_rules_version": "pdf-font-evidence-v2"
+    },
+    {
+      "relative_path": "第046章_第4篇第13章_自身免疫性肝病.md",
+      "bytes": 22578,
+      "sha256": "d5c82aa0b5e98bf3e363cf6f745dd00af329c00bb4a3575445b12cd406892b3c",
+      "chapter_number": 46,
+      "source_ranges": [
+        "3_内科学.md:1140-1304"
+      ],
+      "pdf_pages": "440-445",
+      "heading_rules_version": "pdf-font-evidence-v2"
+    },
+    {
+      "relative_path": "第047章_第4篇第14章_药物性肝病.md",
+      "bytes": 7491,
+      "sha256": "6e0f9e863fbdaf435251ced3db304c47c7b4a2d6d0d3104d8d32b5243fbf20e6",
+      "chapter_number": 47,
+      "source_ranges": [
+        "3_内科学.md:1305-1353"
+      ],
+      "pdf_pages": "446-447",
+      "heading_rules_version": "pdf-font-evidence-v2"
+    },
+    {
+      "relative_path": "第048章_第4篇第15章_肝硬化.md",
+      "bytes": 44356,
+      "sha256": "55bb2247879236c754f92df9825ba066be859bd8d6e782e23096eb1611ca5a77",
+      "chapter_number": 48,
+      "source_ranges": [
+        "3_内科学.md:1354-1670"
+      ],
+      "pdf_pages": "448-457",
+      "heading_rules_version": "pdf-font-evidence-v2"
+    },
+    {
+      "relative_path": "第049章_第4篇第16章_原发性肝癌.md",
+      "bytes": 15664,
+      "sha256": "e9aca087adf66860c26dd1aefe954668f70cbd0280c4ece4c783d7656970e9d6",
+      "chapter_number": 49,
+      "source_ranges": [
+        "3_内科学.md:1671-1808"
+      ],
+      "pdf_pages": "458-462",
+      "heading_rules_version": "pdf-font-evidence-v2"
+    },
+    {
+      "relative_path": "第050章_第4篇第17章_急性肝衰竭.md",
+      "bytes": 6093,
+      "sha256": "52a4470e41457f0b8e151f9ffc6218829e9701012524e442ace96e0b4d79750d",
+      "chapter_number": 50,
+      "source_ranges": [
+        "3_内科学.md:1809-1863"
+      ],
+      "pdf_pages": "463-464",
+      "heading_rules_version": "pdf-font-evidence-v2"
+    },
+    {
+      "relative_path": "第051章_第4篇第18章_肝外胆系结石及炎症.md",
+      "bytes": 13562,
+      "sha256": "a2c88975758e21e70c95c953326dd91c2a7ac8882128cdbc562632256b55b00b",
+      "chapter_number": 51,
+      "source_ranges": [
+        "3_内科学.md:1864-1974"
+      ],
+      "pdf_pages": "465-468",
+      "heading_rules_version": "pdf-font-evidence-v2"
+    },
+    {
+      "relative_path": "第052章_第4篇第19章_胆道系统肿瘤.md",
+      "bytes": 8506,
+      "sha256": "925d51c68301346d35990709e97f3df774c202a4848eb3ec1029ba374a9154fe",
+      "chapter_number": 52,
+      "source_ranges": [
+        "3_内科学.md:1975-2046"
+      ],
+      "pdf_pages": "469-471",
+      "heading_rules_version": "pdf-font-evidence-v2"
+    },
+    {
+      "relative_path": "第053章_第4篇第20章_胰腺炎.md",
+      "bytes": 36707,
+      "sha256": "35f9e747bdcc24ed92ab7a2674f57bfda5257aacbe9e598e64aa6cc43685938b",
+      "chapter_number": 53,
+      "source_ranges": [
+        "3_内科学.md:2047-2314"
+      ],
+      "pdf_pages": "472-480",
+      "heading_rules_version": "pdf-font-evidence-v2"
+    },
+    {
+      "relative_path": "第054章_第4篇第21章_胰腺癌.md",
+      "bytes": 7906,
+      "sha256": "308c144aac3f30b4a8cd8f1921658cc1f11a0455b642c5af45897ed9f7565ac1",
+      "chapter_number": 54,
+      "source_ranges": [
+        "3_内科学.md:2315-2398"
+      ],
+      "pdf_pages": "481-482",
+      "heading_rules_version": "pdf-font-evidence-v2"
+    },
+    {
+      "relative_path": "第055章_第4篇第22章_腹痛.md",
+      "bytes": 11752,
+      "sha256": "a471a67b5787ce40ff3d93a5897804dcc1ae6aadaab9c1093d2d4d0d5de2e227",
+      "chapter_number": 55,
+      "source_ranges": [
+        "3_内科学.md:2399-2519"
+      ],
+      "pdf_pages": "483-485",
+      "heading_rules_version": "pdf-font-evidence-v2"
+    },
+    {
+      "relative_path": "第056章_第4篇第23章_慢性腹泻.md",
+      "bytes": 9022,
+      "sha256": "7a5806fd61583b8d22f20fe4df115454d8b2dec7e01e703cf087965f022a5aea",
+      "chapter_number": 56,
+      "source_ranges": [
+        "3_内科学.md:2520-2580"
+      ],
+      "pdf_pages": "486-488",
+      "heading_rules_version": "pdf-font-evidence-v2"
+    },
+    {
+      "relative_path": "第057章_第4篇第24章_便秘.md",
+      "bytes": 8360,
+      "sha256": "8f36eddde7dd0282707a504780e87966bf03572c8c919be898af4feaa3fd2146",
+      "chapter_number": 57,
+      "source_ranges": [
+        "3_内科学.md:2581-2640"
+      ],
+      "pdf_pages": "489-490",
+      "heading_rules_version": "pdf-font-evidence-v2"
+    },
+    {
+      "relative_path": "第058章_第4篇第25章_消化道出血.md",
+      "bytes": 17188,
+      "sha256": "07d416d7af22ba28f1be3a6054d5693e30a3bced5dc312e01511badecc0562bc",
+      "chapter_number": 58,
+      "source_ranges": [
+        "3_内科学.md:2641-2749"
+      ],
+      "pdf_pages": "491-494",
+      "heading_rules_version": "pdf-font-evidence-v2"
+    },
+    {
+      "relative_path": "第059章_第5篇第01章_总论.md",
+      "bytes": 24822,
+      "sha256": "ed6b77f552dfbe3e195d5f5059811c10d36e6a94c7569e5da68694e73f91e838",
+      "chapter_number": 59,
+      "source_ranges": [
+        "3_内科学.md:2776-2930"
+      ],
+      "pdf_pages": "497-503",
+      "heading_rules_version": "pdf-font-evidence-v2"
+    },
+    {
+      "relative_path": "第060章_第5篇第02章_原发性肾小球疾病.md",
+      "bytes": 73823,
+      "sha256": "f2241df146fa484eadf5a4dba42adb835ce1abc4795b425ba2d80c4e2cbad436",
+      "chapter_number": 60,
+      "source_ranges": [
+        "3_内科学.md:2931-3374"
+      ],
+      "pdf_pages": "504-520",
+      "heading_rules_version": "pdf-font-evidence-v2"
+    },
+    {
+      "relative_path": "第061章_第5篇第03章_继发性肾病.md",
+      "bytes": 25298,
+      "sha256": "11264f59c984dfecf708e55f48d216db5e07157f46e43f8410ed3001a32d2790",
+      "chapter_number": 61,
+      "source_ranges": [
+        "3_内科学.md:3375-3548"
+      ],
+      "pdf_pages": "521-526",
+      "heading_rules_version": "pdf-font-evidence-v2"
+    },
+    {
+      "relative_path": "第062章_第5篇第04章_间质性肾炎.md",
+      "bytes": 12850,
+      "sha256": "dc3abe85df323459db14cb3ca682fed253f2c9dedb1b2640bde96b87339dc961",
+      "chapter_number": 62,
+      "source_ranges": [
+        "3_内科学.md:3549-3668"
+      ],
+      "pdf_pages": "527-529",
+      "heading_rules_version": "pdf-font-evidence-v2"
+    },
+    {
+      "relative_path": "第063章_第5篇第05章_尿路感染.md",
+      "bytes": 25911,
+      "sha256": "75e66c9edd210f9203bc87a8d880bdfe4cedc9e2be25fecc3c31ec67aa16b4d4",
+      "chapter_number": 63,
+      "source_ranges": [
+        "3_内科学.md:3669-3863"
+      ],
+      "pdf_pages": "530-535",
+      "heading_rules_version": "pdf-font-evidence-v2"
+    },
+    {
+      "relative_path": "第064章_第5篇第06章_肾小管疾病.md",
+      "bytes": 13865,
+      "sha256": "c8e7718b3e4571665c1fdf4becaa2fa36be1fc2539736233742fddd3148261ac",
+      "chapter_number": 64,
+      "source_ranges": [
+        "3_内科学.md:3864-3969"
+      ],
+      "pdf_pages": "536-539",
+      "heading_rules_version": "pdf-font-evidence-v2"
+    },
+    {
+      "relative_path": "第065章_第5篇第07章_肾血管疾病.md",
+      "bytes": 18317,
+      "sha256": "dff7c16b91653c5c0d1e7b38214c10046cdd8f599ef5639809536843a8dc1bf0",
+      "chapter_number": 65,
+      "source_ranges": [
+        "3_内科学.md:3970-4073"
+      ],
+      "pdf_pages": "540-543",
+      "heading_rules_version": "pdf-font-evidence-v2"
+    },
+    {
+      "relative_path": "第066章_第5篇第08章_遗传性肾病.md",
+      "bytes": 16233,
+      "sha256": "540a443bf0b2a7905a600eb6efbc24ec01bdb5719db554aff09d87734d13dc43",
+      "chapter_number": 66,
+      "source_ranges": [
+        "3_内科学.md:4074-4231"
+      ],
+      "pdf_pages": "544-548",
+      "heading_rules_version": "pdf-font-evidence-v2"
+    },
+    {
+      "relative_path": "第067章_第5篇第09章_急性肾损伤.md",
+      "bytes": 28581,
+      "sha256": "23af38b7013020d72715a34f66394c29ccf5733f2f7cc34f5188b0dda092d622",
+      "chapter_number": 67,
+      "source_ranges": [
+        "3_内科学.md:4232-4367"
+      ],
+      "pdf_pages": "549-555",
+      "heading_rules_version": "pdf-font-evidence-v2"
+    },
+    {
+      "relative_path": "第068章_第5篇第10章_慢性肾衰竭.md",
+      "bytes": 36142,
+      "sha256": "162e84b98cdfce21284af64674f83757b7331ef63779381aea67c73df1b1efd5",
+      "chapter_number": 68,
+      "source_ranges": [
+        "3_内科学.md:4368-4554"
+      ],
+      "pdf_pages": "556-563",
+      "heading_rules_version": "pdf-font-evidence-v2"
+    },
+    {
+      "relative_path": "第069章_第5篇第11章_肾脏替代治疗.md",
+      "bytes": 17561,
+      "sha256": "002af79f2fec152e54e5bb81b86a65daa564230f803a738f74960eb3570abc40",
+      "chapter_number": 69,
+      "source_ranges": [
+        "3_内科学.md:4555-4655"
+      ],
+      "pdf_pages": "564-568",
+      "heading_rules_version": "pdf-font-evidence-v2"
+    },
+    {
+      "relative_path": "第070章_第6篇第01章_总论.md",
+      "bytes": 12810,
+      "sha256": "b076aa25d97f63a21860b9aae01cd2c64450c32c16dea1cf457611ddc6cd9b98",
+      "chapter_number": 70,
+      "source_ranges": [
+        "3_内科学.md:4666-4785"
+      ],
+      "pdf_pages": "571-574",
+      "heading_rules_version": "pdf-font-evidence-v2"
+    },
+    {
+      "relative_path": "第071章_第6篇第02章_贫血概述.md",
+      "bytes": 21323,
+      "sha256": "1ab8e6b9aa14a9377f1de35ff3d3cce076d50c003b65836694282724f921b59a",
+      "chapter_number": 71,
+      "source_ranges": [
+        "3_内科学.md:4786-4880"
+      ],
+      "pdf_pages": "575-579",
+      "heading_rules_version": "pdf-font-evidence-v2"
+    },
+    {
+      "relative_path": "第072章_第6篇第03章_缺铁性贫血.md",
+      "bytes": 13132,
+      "sha256": "9fd16b784150142adc8c3cc5523dc688d2965066aef5cf16eea9a7c2848d0b00",
+      "chapter_number": 72,
+      "source_ranges": [
+        "3_内科学.md:4881-4963"
+      ],
+      "pdf_pages": "580-582",
+      "heading_rules_version": "pdf-font-evidence-v2"
+    },
+    {
+      "relative_path": "第073章_第6篇第04章_巨幼细胞贫血.md",
+      "bytes": 13435,
+      "sha256": "540770f54041ec1a3a8c1cc0764d6bfec819a30908c93137fecdcc7fdee63afe",
+      "chapter_number": 73,
+      "source_ranges": [
+        "3_内科学.md:4964-5046"
+      ],
+      "pdf_pages": "583-585",
+      "heading_rules_version": "pdf-font-evidence-v2"
+    },
+    {
+      "relative_path": "第074章_第6篇第05章_再生障碍性贫血.md",
+      "bytes": 15293,
+      "sha256": "07f0761715cf07d318f0933e92675422f42bed2722e5287d046e78a63791ae33",
+      "chapter_number": 74,
+      "source_ranges": [
+        "3_内科学.md:5047-5165"
+      ],
+      "pdf_pages": "586-589",
+      "heading_rules_version": "pdf-font-evidence-v2"
+    },
+    {
+      "relative_path": "第075章_第6篇第06章_溶血性贫血.md",
+      "bytes": 43432,
+      "sha256": "e54bd53a7c398deec3fdcff0c08fbce8531933c6b652b4d7edf61037126fdcf3",
+      "chapter_number": 75,
+      "source_ranges": [
+        "3_内科学.md:5166-5502"
+      ],
+      "pdf_pages": "590-600",
+      "heading_rules_version": "pdf-font-evidence-v2"
+    },
+    {
+      "relative_path": "第076章_第6篇第07章_白细胞减少和粒细胞缺乏症.md",
+      "bytes": 8673,
+      "sha256": "a6a959828f60cbb86043b6b6ab7449f68d59c103f4fc6d14996b2c9aa2c67597",
+      "chapter_number": 76,
+      "source_ranges": [
+        "2_内科学.md:1-40"
+      ],
+      "pdf_pages": "601-602",
+      "heading_rules_version": "pdf-font-evidence-v2"
+    },
+    {
+      "relative_path": "第077章_第6篇第08章_骨髓增生异常性肿瘤.md",
+      "bytes": 12590,
+      "sha256": "45466c42c5dc391829ef4b3a158a4dd9b1b288ce8e308f23f178cff687e4e1fc",
+      "chapter_number": 77,
+      "source_ranges": [
+        "2_内科学.md:41-111"
+      ],
+      "pdf_pages": "603-606",
+      "heading_rules_version": "pdf-font-evidence-v2"
+    },
+    {
+      "relative_path": "第078章_第6篇第09章_白血病.md",
+      "bytes": 62930,
+      "sha256": "df189903519c07ff7c8602511d3395407ea3bbe3dd925b6b66dae1b9f011747a",
+      "chapter_number": 78,
+      "source_ranges": [
+        "2_内科学.md:112-443"
+      ],
+      "pdf_pages": "607-621",
+      "heading_rules_version": "pdf-font-evidence-v2"
+    },
+    {
+      "relative_path": "第079章_第6篇第10章_淋巴瘤.md",
+      "bytes": 35457,
+      "sha256": "e3f082ba35887a992f1e78fb137d80e9032cff17542e376cd95491172ae1a44c",
+      "chapter_number": 79,
+      "source_ranges": [
+        "2_内科学.md:444-654"
+      ],
+      "pdf_pages": "622-630",
+      "heading_rules_version": "pdf-font-evidence-v2"
+    },
+    {
+      "relative_path": "第080章_第6篇第11章_多发性骨髓瘤.md",
+      "bytes": 18242,
+      "sha256": "d2231eeaffe7c65a227f5a5e6f7b7025ba3cfe14c8e156ed3bb6e7391a5271a5",
+      "chapter_number": 80,
+      "source_ranges": [
+        "2_内科学.md:655-838"
+      ],
+      "pdf_pages": "631-635",
+      "heading_rules_version": "pdf-font-evidence-v2"
+    },
+    {
+      "relative_path": "第081章_第6篇第12章_骨髓增殖性肿瘤.md",
+      "bytes": 17054,
+      "sha256": "cca21820499c6f79bc21f75e4f2bb31bbd4214cd7f91dd1e16cd636e553664ec",
+      "chapter_number": 81,
+      "source_ranges": [
+        "2_内科学.md:839-1015"
+      ],
+      "pdf_pages": "636-640",
+      "heading_rules_version": "pdf-font-evidence-v2"
+    },
+    {
+      "relative_path": "第082章_第6篇第13章_脾功能亢进.md",
+      "bytes": 6822,
+      "sha256": "075f20b5eb4e3c7e21d0cda2369793b5d6a120ac0b5fb2ce896cdee1e8df7965",
+      "chapter_number": 82,
+      "source_ranges": [
+        "2_内科学.md:1016-1076"
+      ],
+      "pdf_pages": "641-642",
+      "heading_rules_version": "pdf-font-evidence-v2"
+    },
+    {
+      "relative_path": "第083章_第6篇第14章_出血性疾病概述.md",
+      "bytes": 24060,
+      "sha256": "9ffdfc53cdc5d222dedca5390bd91793d1d985d8c41672be1f53ccafae78b7a8",
+      "chapter_number": 83,
+      "source_ranges": [
+        "2_内科学.md:1077-1303"
+      ],
+      "pdf_pages": "643-650",
+      "heading_rules_version": "pdf-font-evidence-v2"
+    },
+    {
+      "relative_path": "第084章_第6篇第15章_紫癜性疾病.md",
+      "bytes": 20995,
+      "sha256": "ca1b39ac3efd2b539afba89e4a93f5f1b29f930f0135686219dd812f3965ef3e",
+      "chapter_number": 84,
+      "source_ranges": [
+        "2_内科学.md:1304-1534"
+      ],
+      "pdf_pages": "651-656",
+      "heading_rules_version": "pdf-font-evidence-v2"
+    },
+    {
+      "relative_path": "第085章_第6篇第16章_凝血障碍性疾病.md",
+      "bytes": 15923,
+      "sha256": "5c9c08f66d9837ba246606d5ac1fd4902f6e8191f629d2f47101580a4284e001",
+      "chapter_number": 85,
+      "source_ranges": [
+        "2_内科学.md:1535-1676"
+      ],
+      "pdf_pages": "657-661",
+      "heading_rules_version": "pdf-font-evidence-v2"
+    },
+    {
+      "relative_path": "第086章_第6篇第17章_弥散性血管内凝血.md",
+      "bytes": 13641,
+      "sha256": "0f098745424e1e9253b6060d8a33415549eb8095c554ae31e5901f41ecca5105",
+      "chapter_number": 86,
+      "source_ranges": [
+        "2_内科学.md:1677-1730"
+      ],
+      "pdf_pages": "662-665",
+      "heading_rules_version": "pdf-font-evidence-v2"
+    },
+    {
+      "relative_path": "第087章_第6篇第18章_血栓性疾病.md",
+      "bytes": 9519,
+      "sha256": "6bb7ae1ff99fe87806b77a4683194647488c93a8d78d78eb29d7e79d232638f6",
+      "chapter_number": 87,
+      "source_ranges": [
+        "2_内科学.md:1731-1801"
+      ],
+      "pdf_pages": "666-668",
+      "heading_rules_version": "pdf-font-evidence-v2"
+    },
+    {
+      "relative_path": "第088章_第6篇第19章_输血和输血反应.md",
+      "bytes": 15907,
+      "sha256": "5059a41b2237cceb5dcf805d863680cd5bcef0696b164d9344f9d907cd7b5c8a",
+      "chapter_number": 88,
+      "source_ranges": [
+        "2_内科学.md:1802-1892"
+      ],
+      "pdf_pages": "669-672",
+      "heading_rules_version": "pdf-font-evidence-v2"
+    },
+    {
+      "relative_path": "第089章_第6篇第20章_造血干细胞移植.md",
+      "bytes": 23909,
+      "sha256": "7f3e85b6feff05b9c7d06f58a19d4348319032364768b885f67c750f153c08b8",
+      "chapter_number": 89,
+      "source_ranges": [
+        "2_内科学.md:1893-1975"
+      ],
+      "pdf_pages": "673-678",
+      "heading_rules_version": "pdf-font-evidence-v2"
+    },
+    {
+      "relative_path": "第090章_第6篇第21章_CAR-T细胞免疫疗法在血液病中的应用.md",
+      "bytes": 14275,
+      "sha256": "d9e5c88dcef016d43707858faaf7d92ee120108464d406865dfbfaca1ab02750",
+      "chapter_number": 90,
+      "source_ranges": [
+        "2_内科学.md:1976-2042"
+      ],
+      "pdf_pages": "679-682",
+      "heading_rules_version": "pdf-font-evidence-v2"
+    },
+    {
+      "relative_path": "第091章_第7篇第01章_总论.md",
+      "bytes": 41202,
+      "sha256": "aacfa501f224ba22391434b7527259573f6224a65f77738af5d2878fc55f6df0",
+      "chapter_number": 91,
+      "source_ranges": [
+        "2_内科学.md:2059-2252"
+      ],
+      "pdf_pages": "685-693",
+      "heading_rules_version": "pdf-font-evidence-v2"
+    },
+    {
+      "relative_path": "第092章_第7篇第02章_下丘脑疾病.md",
+      "bytes": 21491,
+      "sha256": "01a13d81cbfe2af2a39f210e7d5184768f2d33bc4b198e857ca1aadf364d57e1",
+      "chapter_number": 92,
+      "source_ranges": [
+        "2_内科学.md:2253-2363"
+      ],
+      "pdf_pages": "694-698",
+      "heading_rules_version": "pdf-font-evidence-v2"
+    },
+    {
+      "relative_path": "第093章_第7篇第03章_垂体前叶疾病.md",
+      "bytes": 50913,
+      "sha256": "34db92272ae5b66985723ad86b8255e7483a2a265207288d7800e32934d22cf5",
+      "chapter_number": 93,
+      "source_ranges": [
+        "2_内科学.md:2364-2700"
+      ],
+      "pdf_pages": "699-710",
+      "heading_rules_version": "pdf-font-evidence-v2"
+    },
+    {
+      "relative_path": "第094章_第7篇第04章_垂体后叶疾病.md",
+      "bytes": 21790,
+      "sha256": "dab7a84bff7b6b2928e3cb8f48bb88d97bc1da1d1619ef4f56bcaee3684f024e",
+      "chapter_number": 94,
+      "source_ranges": [
+        "2_内科学.md:2701-2828"
+      ],
+      "pdf_pages": "711-716",
+      "heading_rules_version": "pdf-font-evidence-v2"
+    },
+    {
+      "relative_path": "第095章_第7篇第05章_甲状腺疾病.md",
+      "bytes": 78397,
+      "sha256": "9c82ee603c07d10fc553f24f66dc9a9bb20684d8a327ea29105376f47e1bc3ce",
+      "chapter_number": 95,
+      "source_ranges": [
+        "2_内科学.md:2829-3340"
+      ],
+      "pdf_pages": "717-734",
+      "heading_rules_version": "pdf-font-evidence-v2"
+    },
+    {
+      "relative_path": "第096章_第7篇第06章_甲状旁腺疾病.md",
+      "bytes": 24286,
+      "sha256": "e55cdaf9ee41454af014e80ec83bd6816ea290352e0c84dc2f6d0c8d8020ea4e",
+      "chapter_number": 96,
+      "source_ranges": [
+        "2_内科学.md:3341-3476"
+      ],
+      "pdf_pages": "735-739",
+      "heading_rules_version": "pdf-font-evidence-v2"
+    },
+    {
+      "relative_path": "第097章_第7篇第07章_肾上腺疾病.md",
+      "bytes": 65893,
+      "sha256": "f58f4c02cacca19360bdccc41a75440ab937add3c16a84e2a1d680b457a5fab9",
+      "chapter_number": 97,
+      "source_ranges": [
+        "2_内科学.md:3477-3839"
+      ],
+      "pdf_pages": "740-754",
+      "heading_rules_version": "pdf-font-evidence-v2"
+    },
+    {
+      "relative_path": "第098章_第7篇第08章_糖尿病.md",
+      "bytes": 106727,
+      "sha256": "28581200f450687ab8c3fb0e48f22a887d529cad2d73e0d888623102f2cdb0f5",
+      "chapter_number": 98,
+      "source_ranges": [
+        "2_内科学.md:3840-4440"
+      ],
+      "pdf_pages": "755-778",
+      "heading_rules_version": "pdf-font-evidence-v2"
+    },
+    {
+      "relative_path": "第099章_第7篇第09章_低血糖症与胰岛素瘤.md",
+      "bytes": 24322,
+      "sha256": "80c40df5e2515075ff18fa37398d59864d0b969604d722ed240b5eb2566e0e65",
+      "chapter_number": 99,
+      "source_ranges": [
+        "2_内科学.md:4441-4557"
+      ],
+      "pdf_pages": "779-784",
+      "heading_rules_version": "pdf-font-evidence-v2"
+    },
+    {
+      "relative_path": "第100章_第7篇第10章_血脂异常性疾病.md",
+      "bytes": 29129,
+      "sha256": "10c774fe88776ad6ff591d930f51b78730877cde151cd833074e4ee7d3e0f518",
+      "chapter_number": 100,
+      "source_ranges": [
+        "2_内科学.md:4558-4743"
+      ],
+      "pdf_pages": "785-792",
+      "heading_rules_version": "pdf-font-evidence-v2"
+    },
+    {
+      "relative_path": "第101章_第7篇第11章_肥胖症.md",
+      "bytes": 26555,
+      "sha256": "078e796cbab60a57d02589fb97c91dd068fb81cfb5449730c405b00f913c8a68",
+      "chapter_number": 101,
+      "source_ranges": [
+        "2_内科学.md:4744-4881"
+      ],
+      "pdf_pages": "793-798",
+      "heading_rules_version": "pdf-font-evidence-v2"
+    },
+    {
+      "relative_path": "第102章_第7篇第12章_水、电解质代谢和酸碱平衡失常.md",
+      "bytes": 64844,
+      "sha256": "fde72ae92efadc60aa0332449dd3918c32d4b8ffa81e31aec89f3406dde20a3b",
+      "chapter_number": 102,
+      "source_ranges": [
+        "2_内科学.md:4882-4954",
+        "1_内科学.md:1-388"
+      ],
+      "pdf_pages": "799-813",
+      "heading_rules_version": "pdf-font-evidence-v2"
+    },
+    {
+      "relative_path": "第103章_第7篇第13章_高尿酸血症.md",
+      "bytes": 13100,
+      "sha256": "02811974ffa75c72869187a4c7087227eb5b70ba75f2bfece01366aec5d25110",
+      "chapter_number": 103,
+      "source_ranges": [
+        "1_内科学.md:389-472"
+      ],
+      "pdf_pages": "814-817",
+      "heading_rules_version": "pdf-font-evidence-v2"
+    },
+    {
+      "relative_path": "第104章_第7篇第14章_骨质疏松症.md",
+      "bytes": 17102,
+      "sha256": "694eafd3fecd8bf77d5a43336671b96ef75eab16e15dacd0c42592095a0c93d8",
+      "chapter_number": 104,
+      "source_ranges": [
+        "1_内科学.md:473-608"
+      ],
+      "pdf_pages": "818-821",
+      "heading_rules_version": "pdf-font-evidence-v2"
+    },
+    {
+      "relative_path": "第105章_第7篇第15章_性发育异常疾病.md",
+      "bytes": 14571,
+      "sha256": "0f5510ab65f7c9f678aab21fb4ffbb14825c40cf08d243741a708a5481b8c7a2",
+      "chapter_number": 105,
+      "source_ranges": [
+        "1_内科学.md:609-742"
+      ],
+      "pdf_pages": "822-825",
+      "heading_rules_version": "pdf-font-evidence-v2"
+    },
+    {
+      "relative_path": "第106章_第7篇第16章_多内分泌腺体疾病.md",
+      "bytes": 19293,
+      "sha256": "73290b981c54279eab1dc8bca0c95cc80b5790edcff0c189a51143c38c096cb5",
+      "chapter_number": 106,
+      "source_ranges": [
+        "1_内科学.md:743-855"
+      ],
+      "pdf_pages": "826-830",
+      "heading_rules_version": "pdf-font-evidence-v2"
+    },
+    {
+      "relative_path": "第107章_第7篇第17章_神经内分泌肿瘤.md",
+      "bytes": 14509,
+      "sha256": "e7ed6acd20db848fead55c058d016a10943d5c5d5a860b106aa8edd55b85a7bd",
+      "chapter_number": 107,
+      "source_ranges": [
+        "1_内科学.md:856-898"
+      ],
+      "pdf_pages": "831-833",
+      "heading_rules_version": "pdf-font-evidence-v2"
+    },
+    {
+      "relative_path": "第108章_第7篇第18章_异位激素分泌综合征.md",
+      "bytes": 11620,
+      "sha256": "b058f67d8ee6c3f44ba9e80a035ac80157b8a24cda99962ca75b1be98ea11c3f",
+      "chapter_number": 108,
+      "source_ranges": [
+        "1_内科学.md:899-944"
+      ],
+      "pdf_pages": "834-836",
+      "heading_rules_version": "pdf-font-evidence-v2"
+    },
+    {
+      "relative_path": "第109章_第8篇第01章_总论.md",
+      "bytes": 25372,
+      "sha256": "6d0c1f848ae6d69171ae5d48cee4128cb12c7e672937e2adbe01dbb686f5b559",
+      "chapter_number": 109,
+      "source_ranges": [
+        "1_内科学.md:961-1048"
+      ],
+      "pdf_pages": "839-844",
+      "heading_rules_version": "pdf-font-evidence-v2"
+    },
+    {
+      "relative_path": "第110章_第8篇第02章_类风湿关节炎.md",
+      "bytes": 22786,
+      "sha256": "71c944521fb02e8b63d85e99a9703a09e7a793dd9e708ce1ec673ca9335f3196",
+      "chapter_number": 110,
+      "source_ranges": [
+        "1_内科学.md:1049-1187"
+      ],
+      "pdf_pages": "845-850",
+      "heading_rules_version": "pdf-font-evidence-v2"
+    },
+    {
+      "relative_path": "第111章_第8篇第03章_系统性红斑狼疮.md",
+      "bytes": 27905,
+      "sha256": "d9584eb855aac35b805c8fde8a448dd1910a27da1ae1979c7a44c470ea9f0372",
+      "chapter_number": 111,
+      "source_ranges": [
+        "1_内科学.md:1188-1342"
+      ],
+      "pdf_pages": "851-857",
+      "heading_rules_version": "pdf-font-evidence-v2"
+    },
+    {
+      "relative_path": "第112章_第8篇第04章_干燥综合征.md",
+      "bytes": 13510,
+      "sha256": "d6054a90983aba9e1001e03be9c638072a21c1d69620e142cdfff2dcccb68368",
+      "chapter_number": 112,
+      "source_ranges": [
+        "1_内科学.md:1343-1443"
+      ],
+      "pdf_pages": "858-861",
+      "heading_rules_version": "pdf-font-evidence-v2"
+    },
+    {
+      "relative_path": "第113章_第8篇第05章_脊柱关节炎.md",
+      "bytes": 15792,
+      "sha256": "ad14117d81280ecf3481080782cc4052edb34dd45a66acde0af7043d38e4b175",
+      "chapter_number": 113,
+      "source_ranges": [
+        "1_内科学.md:1444-1576"
+      ],
+      "pdf_pages": "862-865",
+      "heading_rules_version": "pdf-font-evidence-v2"
+    },
+    {
+      "relative_path": "第114章_第8篇第06章_系统性血管炎.md",
+      "bytes": 41292,
+      "sha256": "3832d35b544f3f2114caa1e6efd32ac0a8bc9fd9121131f82ce6eb6ca3a653e8",
+      "chapter_number": 114,
+      "source_ranges": [
+        "1_内科学.md:1577-1837"
+      ],
+      "pdf_pages": "866-875",
+      "heading_rules_version": "pdf-font-evidence-v2"
+    },
+    {
+      "relative_path": "第115章_第8篇第07章_特发性炎症性肌病.md",
+      "bytes": 12937,
+      "sha256": "8af16bdb7fcb95c6c52dfecaa1ac46f292eb453bf4f6457b9949e21ae3bda6d6",
+      "chapter_number": 115,
+      "source_ranges": [
+        "1_内科学.md:1838-1889"
+      ],
+      "pdf_pages": "876-878",
+      "heading_rules_version": "pdf-font-evidence-v2"
+    },
+    {
+      "relative_path": "第116章_第8篇第08章_系统性硬化症.md",
+      "bytes": 12871,
+      "sha256": "22cbd8ca0c603d2b277921ab25dd2c60611f88abbeae3e19ea9c1498ab768104",
+      "chapter_number": 116,
+      "source_ranges": [
+        "1_内科学.md:1890-1981"
+      ],
+      "pdf_pages": "879-881",
+      "heading_rules_version": "pdf-font-evidence-v2"
+    },
+    {
+      "relative_path": "第117章_第8篇第09章_痛风.md",
+      "bytes": 13559,
+      "sha256": "d6c6de65d396875ece5b9a6a504b92748cdbd22f42507feaa06b43f5521178f3",
+      "chapter_number": 117,
+      "source_ranges": [
+        "1_内科学.md:1982-2088"
+      ],
+      "pdf_pages": "882-885",
+      "heading_rules_version": "pdf-font-evidence-v2"
+    },
+    {
+      "relative_path": "第118章_第8篇第10章_骨关节炎.md",
+      "bytes": 11008,
+      "sha256": "eeb079f76a101ffde8c69ed9f9b77ab5c2f107a046efd5c299b0b3b6aef8025f",
+      "chapter_number": 118,
+      "source_ranges": [
+        "1_内科学.md:2089-2201"
+      ],
+      "pdf_pages": "886-888",
+      "heading_rules_version": "pdf-font-evidence-v2"
+    },
+    {
+      "relative_path": "第119章_第8篇第11章_IgG4相关性疾病.md",
+      "bytes": 14725,
+      "sha256": "5ceaf210d762fe956a6081bfb5e3169bd5f61b25b9a2bff031408fae9cda2933",
+      "chapter_number": 119,
+      "source_ranges": [
+        "1_内科学.md:2202-2269"
+      ],
+      "pdf_pages": "889-892",
+      "heading_rules_version": "pdf-font-evidence-v2"
+    },
+    {
+      "relative_path": "第120章_第8篇第12章_抗磷脂综合征.md",
+      "bytes": 12485,
+      "sha256": "99567ab7b280d18543d5536cc7f92411fc4bc3bffc0c2938097094ddebf8cca3",
+      "chapter_number": 120,
+      "source_ranges": [
+        "1_内科学.md:2270-2340"
+      ],
+      "pdf_pages": "893-895",
+      "heading_rules_version": "pdf-font-evidence-v2"
+    },
+    {
+      "relative_path": "第121章_第8篇第13章_成人斯蒂尔病.md",
+      "bytes": 8392,
+      "sha256": "4ee51062e5809c23f7297ad2ae09f5a38b0853ada881ca77a259d4127595cdd3",
+      "chapter_number": 121,
+      "source_ranges": [
+        "1_内科学.md:2341-2399"
+      ],
+      "pdf_pages": "896-897",
+      "heading_rules_version": "pdf-font-evidence-v2"
+    },
+    {
+      "relative_path": "第122章_第8篇第14章_复发性多软骨炎.md",
+      "bytes": 5509,
+      "sha256": "dc40e56c6eac588f35966d33ae5fe1ec087c0bc20dabd58dab0879c548c80250",
+      "chapter_number": 122,
+      "source_ranges": [
+        "1_内科学.md:2400-2436"
+      ],
+      "pdf_pages": "898-899",
+      "heading_rules_version": "pdf-font-evidence-v2"
+    },
+    {
+      "relative_path": "第123章_第8篇第15章_风湿热.md",
+      "bytes": 6852,
+      "sha256": "2b3eea30f1e018c151d60ac08dec1a8e37158ca7630d3c2f2454e91c08659041",
+      "chapter_number": 123,
+      "source_ranges": [
+        "1_内科学.md:2437-2507"
+      ],
+      "pdf_pages": "900-901",
+      "heading_rules_version": "pdf-font-evidence-v2"
+    },
+    {
+      "relative_path": "第124章_第8篇第16章_纤维肌痛综合征.md",
+      "bytes": 7228,
+      "sha256": "24bcefd9ec7d9fea0aafca304c73b4b1dc3a89b49bbeb3a9efa47cbfb8fddbe7",
+      "chapter_number": 124,
+      "source_ranges": [
+        "1_内科学.md:2508-2544"
+      ],
+      "pdf_pages": "902-903",
+      "heading_rules_version": "pdf-font-evidence-v2"
+    },
+    {
+      "relative_path": "第125章_第9篇第01章_总论.md",
+      "bytes": 9943,
+      "sha256": "61fb7b86784c3a0e9d42ea44fa24b4be6ea80cc950fb5f220a17637f0205aeb9",
+      "chapter_number": 125,
+      "source_ranges": [
+        "1_内科学.md:2553-2614"
+      ],
+      "pdf_pages": "907-909",
+      "heading_rules_version": "pdf-font-evidence-v2"
+    },
+    {
+      "relative_path": "第126章_第9篇第02章_中毒.md",
+      "bytes": 175325,
+      "sha256": "a6db061f080efa712d38b1095e9c12589506e594af8d98e4bea51d1f09f9fa92",
+      "chapter_number": 126,
+      "source_ranges": [
+        "1_内科学.md:2615-3889"
+      ],
+      "pdf_pages": "910-952",
+      "heading_rules_version": "pdf-font-evidence-v2"
+    },
+    {
+      "relative_path": "第127章_第9篇第03章_中暑.md",
+      "bytes": 14194,
+      "sha256": "051c4f0689428ce03af0d8c2d2a104c2ba1259fba52a446b3163599ccabb76e0",
+      "chapter_number": 127,
+      "source_ranges": [
+        "1_内科学.md:3890-3987"
+      ],
+      "pdf_pages": "953-955",
+      "heading_rules_version": "pdf-font-evidence-v2"
+    },
+    {
+      "relative_path": "第128章_第9篇第04章_冻僵.md",
+      "bytes": 8234,
+      "sha256": "b9eb93b7463e105618b020e4c5cb8c0c4d214224e8da33633638594cd2b35761",
+      "chapter_number": 128,
+      "source_ranges": [
+        "1_内科学.md:3988-4052"
+      ],
+      "pdf_pages": "956-957",
+      "heading_rules_version": "pdf-font-evidence-v2"
+    },
+    {
+      "relative_path": "第129章_第9篇第05章_高原病.md",
+      "bytes": 16394,
+      "sha256": "d079698ee613b652feace6dd460a788017a465e10be105ddf0ed4f4415cb916a",
+      "chapter_number": 129,
+      "source_ranges": [
+        "1_内科学.md:4053-4179"
+      ],
+      "pdf_pages": "958-961",
+      "heading_rules_version": "pdf-font-evidence-v2"
+    },
+    {
+      "relative_path": "第130章_第9篇第06章_淹溺.md",
+      "bytes": 10281,
+      "sha256": "24b34840ece5732cca1204efc9fd8100fca19e887a3ada34828605e7c7f84fbc",
+      "chapter_number": 130,
+      "source_ranges": [
+        "1_内科学.md:4180-4260"
+      ],
+      "pdf_pages": "962-964",
+      "heading_rules_version": "pdf-font-evidence-v2"
+    },
+    {
+      "relative_path": "第131章_第9篇第07章_电击.md",
+      "bytes": 7169,
+      "sha256": "106debc5d7d6f29b66525369a16c95d7fdc59b345cf74540778b21f5a4cd8acb",
+      "chapter_number": 131,
+      "source_ranges": [
+        "1_内科学.md:4261-4304"
+      ],
+      "pdf_pages": "965-966",
+      "heading_rules_version": "pdf-font-evidence-v2"
+    }
+  ],
+  "auxiliary_files": [
+    {
+      "relative_path": "00_PDF标题边界.json",
+      "bytes": 770086,
+      "sha256": "d757d080289874358c179b204bcc50ae67bc3e58859d2d36b678f0a7cb6e3f7f"
+    },
+    {
+      "relative_path": "00_图片恢复清单.json",
+      "bytes": 236493,
+      "sha256": "35b497bd999e8cdfb09bbb4153d8240915edb7e36755a37fb364096455586ff5"
+    }
+  ],
+  "verification": {
+    "chapter_files": 131,
+    "appendix_files": 11,
+    "chapter_folders": 0,
+    "broken_wiki_links": 0,
+    "control_character_files": 0,
+    "derived_image_references": 361,
+    "missing_derived_images": 0
+  }
+}
