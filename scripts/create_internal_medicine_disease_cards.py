@@ -1,9 +1,11 @@
 #!/usr/bin/env python3
-"""Create empty, system-grouped disease card files for internal medicine.
+"""Create system-grouped disease card files for internal medicine.
 
 The source of truth is ``00_全书疾病清单.json``.  The requested Obsidian
 template is read and fingerprinted as the future card template, but its YAML
-and body are intentionally not copied: every generated card remains 0 bytes.
+and body are intentionally not copied during placeholder creation.  Later
+source-backed card builders may register selected non-empty cards in a manifest;
+those files are then preserved and accepted by this base verifier.
 """
 
 from __future__ import annotations
@@ -24,6 +26,9 @@ INDEX_RELATIVE = (
     Path("999_附件文件夹")
     / "02_内科学第10版_按章节"
     / "00_全书疾病清单.json"
+)
+REGISTERED_CONTENT_MANIFESTS = (
+    Path("scripts") / "respiratory_306_cards_manifest.json",
 )
 
 SYSTEM_DIRS = {
@@ -137,14 +142,42 @@ def build_mapping(
     return rows
 
 
-def audit_state(target: Path, rows: list[dict[str, object]]) -> dict[str, object]:
+def load_registered_content(workspace: Path, target: Path) -> set[Path]:
+    registered: set[Path] = set()
+    for relative_manifest in REGISTERED_CONTENT_MANIFESTS:
+        manifest_path = workspace / relative_manifest
+        if not manifest_path.is_file():
+            continue
+        manifest = json.loads(manifest_path.read_text(encoding="utf-8"))
+        cards = manifest.get("cards", {})
+        if not isinstance(cards, dict):
+            raise RuntimeError(f"Invalid registered-card manifest: {manifest_path}")
+        for relative_card in cards:
+            card_path = workspace / Path(str(relative_card))
+            try:
+                card_path.resolve().relative_to(target.resolve())
+            except ValueError as exc:
+                raise RuntimeError(
+                    f"Registered card is outside disease-card target: {relative_card}"
+                ) from exc
+            registered.add(card_path)
+    return registered
+
+
+def audit_state(
+    target: Path,
+    rows: list[dict[str, object]],
+    registered_content: set[Path],
+) -> dict[str, object]:
     expected_paths = {Path(row["path"]) for row in rows}
     existing_files = set(target.rglob("*")) if target.is_dir() else set()
     existing_files = {path for path in existing_files if path.is_file()}
     expected_dirs = {target / name for name in SYSTEM_DIRS.values()}
     existing_dirs = set(target.iterdir()) if target.is_dir() else set()
     existing_dirs = {path for path in existing_dirs if path.is_dir()}
-    nonempty = [path for path in expected_paths if path.is_file() and path.stat().st_size]
+    nonempty = {path for path in expected_paths if path.is_file() and path.stat().st_size}
+    registered_nonempty = nonempty & registered_content
+    unregistered_nonempty = nonempty - registered_content
     return {
         "expected_cards": len(expected_paths),
         "expected_system_dirs": len(expected_dirs),
@@ -153,18 +186,24 @@ def audit_state(target: Path, rows: list[dict[str, object]]) -> dict[str, object
         "unexpected_files": len(existing_files - expected_paths),
         "unexpected_dirs": len(existing_dirs - expected_dirs),
         "nonempty_expected_cards": len(nonempty),
+        "registered_nonempty_cards": len(registered_nonempty),
+        "unregistered_nonempty_cards": len(unregistered_nonempty),
     }
 
 
-def create_cards(target: Path, rows: list[dict[str, object]]) -> int:
-    state = audit_state(target, rows)
+def create_cards(
+    target: Path,
+    rows: list[dict[str, object]],
+    registered_content: set[Path],
+) -> int:
+    state = audit_state(target, rows, registered_content)
     if state["unexpected_files"] or state["unexpected_dirs"]:
         raise RuntimeError(
             "Target contains unexpected files or directories; refusing to mix card sets"
         )
     for row in rows:
         path = Path(row["path"])
-        if path.is_file() and path.stat().st_size:
+        if path.is_file() and path.stat().st_size and path not in registered_content:
             raise RuntimeError(f"Existing disease card is not empty: {path}")
     target.mkdir(parents=True, exist_ok=True)
     for dirname in SYSTEM_DIRS.values():
@@ -181,15 +220,19 @@ def create_cards(target: Path, rows: list[dict[str, object]]) -> int:
     return changed
 
 
-def verify(target: Path, rows: list[dict[str, object]]) -> dict[str, object]:
-    state = audit_state(target, rows)
+def verify(
+    target: Path,
+    rows: list[dict[str, object]],
+    registered_content: set[Path],
+) -> dict[str, object]:
+    state = audit_state(target, rows, registered_content)
     failures = {
         key: state[key]
         for key in (
             "missing_cards",
             "unexpected_files",
             "unexpected_dirs",
-            "nonempty_expected_cards",
+            "unregistered_nonempty_cards",
         )
         if state[key]
     }
@@ -218,6 +261,7 @@ def main() -> int:
     target = workspace / TARGET_DIR
     diseases, index_path, template_path = load_expected(workspace)
     rows = build_mapping(diseases, target)
+    registered_content = load_registered_content(workspace, target)
     counts = Counter(str(row["system_dir"]) for row in rows)
     report: dict[str, object] = {
         "source_disease_index": str(index_path),
@@ -230,12 +274,12 @@ def main() -> int:
         "renamed_for_windows": SAFE_NAME_OVERRIDES,
     }
     if args.audit:
-        report.update(audit_state(target, rows))
+        report.update(audit_state(target, rows, registered_content))
         print(json.dumps(report, ensure_ascii=False, indent=2, default=str))
         print("DISEASE_CARD_AUDIT_OK")
         return 0
-    changed = create_cards(target, rows) if args.write else 0
-    report.update(verify(target, rows))
+    changed = create_cards(target, rows, registered_content) if args.write else 0
+    report.update(verify(target, rows, registered_content))
     report["changed_files"] = changed
     print(json.dumps(report, ensure_ascii=False, indent=2, default=str))
     print("DISEASE_CARD_VERIFY_OK")

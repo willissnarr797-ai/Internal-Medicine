@@ -1,0 +1,117 @@
+{
+  "schema": "respiratory-306-disease-cards/v1",
+  "generated_on": "2026-08-23",
+  "source_root": "999_附件文件夹/02_内科学第10版_按章节",
+  "target_root": "998_疾病卡片/02_呼吸系统疾病",
+  "template": "00_模板/疾病卡片.md",
+  "template_sha256": "4267cd88a588f3217b2d169cd388cac5437eace18a0fad5eff835a7f7034c652",
+  "selected_cards": 13,
+  "source_aggregate_sha256": "eec7e18655c81359a8ded51384dc44576fa1dd44c157d9e6839d207cc3bf1507",
+  "sources": {
+    "004_0203_慢性阻塞性肺疾病.md": "ffcf0ac1c5a1a05104270c0304fc73640988e70fc35a63f6a4887eade81cc7de",
+    "005_0204_支气管哮喘.md": "1b3cd6adfdde5cff9e756a77d70e44230679f74df2c21c147b0bf13f8b00aa24",
+    "006_0205_支气管扩张症.md": "c76cbb1cc8f038c4dfc2d97b171161b5657b4fb20aab52dd21676e92f535f43e",
+    "007_0206_肺部感染性疾病.md": "ab2fcae78f635c2bbc63b9997a876e00d537db14735bf38e3fcb729fc482cddc",
+    "008_0207_肺脓肿.md": "372e43daf167fdb599f5adbec77f275cae2067e91b7a7f1dc33c97aca38defca",
+    "009_0208_肺结核.md": "20e2092d4961c1ece5802403f453381ce6300aa001f4c25742369d27feea6578",
+    "010_0209_肺癌.md": "4d0e001cd91e9d20714eb83eeff5e6ec401cfc1ffa03db880aff41e5829f895c",
+    "012_0211_肺血栓栓塞症.md": "f3f3bd9cc4539b1834d54813a629bf85f9dd8186af5651052f3016861be661c0",
+    "014_0213_胸膜疾病.md": "d5fe25d3c469499e17132e89ef0e6adb0ab67a60352f5fc7194d4889faca1b06",
+    "016_0215_急性呼吸窘迫综合征.md": "b66e7cbcac4c3d865c67173b07ff99b5cddd3d93d614f539e0612073c54bb076",
+    "017_0216_呼吸衰竭与呼吸支持技术.md": "bd84da14b0a37e151127c2cadc13e1ea4b42f305a07e092b46899fcb15a6d134",
+    "013_0212_肺动脉高压.md": "4b348b8bf687fbb0d8a1eb6b01c1cbde555f1edc48ebcdda2bf50c190eba3832"
+  },
+  "cards": {
+    "998_疾病卡片/02_呼吸系统疾病/慢性阻塞性肺疾病.md": {
+      "card_id": "IM-RESP-306-001",
+      "source": "004_0203_慢性阻塞性肺疾病.md",
+      "source_sha256": "ffcf0ac1c5a1a05104270c0304fc73640988e70fc35a63f6a4887eade81cc7de",
+      "initial_output_sha256": "49ada714e0b35c911d1f253e0fa949c5a9f460e289ef4b990122508f33e835f0",
+      "manual_incremental_edits_allowed": true
+    },
+    "998_疾病卡片/02_呼吸系统疾病/支气管哮喘.md": {
+      "card_id": "IM-RESP-306-002",
+      "source": "005_0204_支气管哮喘.md",
+      "source_sha256": "1b3cd6adfdde5cff9e756a77d70e44230679f74df2c21c147b0bf13f8b00aa24",
+      "initial_output_sha256": "a17c8b6857cdc041116a44c41592c147046ec6d1d5a669df2b7b3f16ef38e51b",
+      "manual_incremental_edits_allowed": true
+    },
+    "998_疾病卡片/02_呼吸系统疾病/支气管扩张症.md": {
+      "card_id": "IM-RESP-306-003",
+      "source": "006_0205_支气管扩张症.md",
+      "source_sha256": "c76cbb1cc8f038c4dfc2d97b171161b5657b4fb20aab52dd21676e92f535f43e",
+      "initial_output_sha256": "a84556f47b39d8d7a721aff832b27deca71491d75ba82b1fa6fa20c58f6462f1",
+      "manual_incremental_edits_allowed": true
+    },
+    "998_疾病卡片/02_呼吸系统疾病/社区获得性肺炎.md": {
+      "card_id": "IM-RESP-306-004",
+      "source": "007_0206_肺部感染性疾病.md",
+      "source_sha256": "ab2fcae78f635c2bbc63b9997a876e00d537db14735bf38e3fcb729fc482cddc",
+      "initial_output_sha256": "74d69972b90d2bfbbec60247c392661013ff20f62ffbfdf18ae993a78971b5bb",
+      "manual_incremental_edits_allowed": true
+    },
+    "998_疾病卡片/02_呼吸系统疾病/肺脓肿.md": {
+      "card_id": "IM-RESP-306-005",
+      "source": "008_0207_肺脓肿.md",
+      "source_sha256": "372e43daf167fdb599f5adbec77f275cae2067e91b7a7f1dc33c97aca38defca",
+      "initial_output_sha256": "898021de228cdf4e6d628dae571ea346b7f74d5da87097c0edcde8f8b24de9b5",
+      "manual_incremental_edits_allowed": true
+    },
+    "998_疾病卡片/02_呼吸系统疾病/肺结核.md": {
+      "card_id": "IM-RESP-306-006",
+      "source": "009_0208_肺结核.md",
+      "source_sha256": "20e2092d4961c1ece5802403f453381ce6300aa001f4c25742369d27feea6578",
+      "initial_output_sha256": "651f273a0cfc34a61c145b7079f1c57ad9c93c510cbdaa673c859b5014eeb305",
+      "manual_incremental_edits_allowed": true
+    },
+    "998_疾病卡片/02_呼吸系统疾病/肺癌.md": {
+      "card_id": "IM-RESP-306-007",
+      "source": "010_0209_肺癌.md",
+      "source_sha256": "4d0e001cd91e9d20714eb83eeff5e6ec401cfc1ffa03db880aff41e5829f895c",
+      "initial_output_sha256": "3fb0c43bf2cce62236fab4e7d89532ad9454ef261a0fe5aae9ccba6e0bfe9036",
+      "manual_incremental_edits_allowed": true
+    },
+    "998_疾病卡片/02_呼吸系统疾病/肺血栓栓塞症.md": {
+      "card_id": "IM-RESP-306-008",
+      "source": "012_0211_肺血栓栓塞症.md",
+      "source_sha256": "f3f3bd9cc4539b1834d54813a629bf85f9dd8186af5651052f3016861be661c0",
+      "initial_output_sha256": "fa0bffcc805fcd318bb841e9285fb017412a3a2b8be4ea4886e63b0bc8f1a973",
+      "manual_incremental_edits_allowed": true
+    },
+    "998_疾病卡片/02_呼吸系统疾病/胸腔积液.md": {
+      "card_id": "IM-RESP-306-009",
+      "source": "014_0213_胸膜疾病.md",
+      "source_sha256": "d5fe25d3c469499e17132e89ef0e6adb0ab67a60352f5fc7194d4889faca1b06",
+      "initial_output_sha256": "5e4985531534bbe21b6709480ecac04fb102e609b772d5a62dd72876b0124afe",
+      "manual_incremental_edits_allowed": true
+    },
+    "998_疾病卡片/02_呼吸系统疾病/气胸.md": {
+      "card_id": "IM-RESP-306-010",
+      "source": "014_0213_胸膜疾病.md",
+      "source_sha256": "d5fe25d3c469499e17132e89ef0e6adb0ab67a60352f5fc7194d4889faca1b06",
+      "initial_output_sha256": "7700602fb35b3a5f9325da9ff9456999b93ae071ccd0e9683b3114a997180640",
+      "manual_incremental_edits_allowed": true
+    },
+    "998_疾病卡片/02_呼吸系统疾病/急性呼吸窘迫综合征.md": {
+      "card_id": "IM-RESP-306-011",
+      "source": "016_0215_急性呼吸窘迫综合征.md",
+      "source_sha256": "b66e7cbcac4c3d865c67173b07ff99b5cddd3d93d614f539e0612073c54bb076",
+      "initial_output_sha256": "b5d2ff6c49aadda2c738359b724dd4f98b78231affeea495f5b925d37e875950",
+      "manual_incremental_edits_allowed": true
+    },
+    "998_疾病卡片/02_呼吸系统疾病/呼吸衰竭.md": {
+      "card_id": "IM-RESP-306-012",
+      "source": "017_0216_呼吸衰竭与呼吸支持技术.md",
+      "source_sha256": "bd84da14b0a37e151127c2cadc13e1ea4b42f305a07e092b46899fcb15a6d134",
+      "initial_output_sha256": "53271704d3835a3934a21f810814e3d8bab9c4b81bb9e5744c6847c43c3b116c",
+      "manual_incremental_edits_allowed": true
+    },
+    "998_疾病卡片/02_呼吸系统疾病/慢性肺源性心脏病.md": {
+      "card_id": "IM-RESP-306-013",
+      "source": "013_0212_肺动脉高压.md",
+      "source_sha256": "4b348b8bf687fbb0d8a1eb6b01c1cbde555f1edc48ebcdda2bf50c190eba3832",
+      "initial_output_sha256": "c7e14838630d24036817330c6b80ac07f007943b484f8e785f8553927fae49f7",
+      "manual_incremental_edits_allowed": true
+    }
+  }
+}
