@@ -1,0 +1,157 @@
+{
+  "schema": "tuberculosis-learning-topic/v1",
+  "generated_on": "2026-08-29",
+  "source_scope": "本地《内科学》第10版指定章节与既有肺结核疾病卡；未混入外部指南或题库答案",
+  "topic_root": "00_地图/结核病学习专题",
+  "index_path": "00_地图/00_总目录.md",
+  "index_markers": [
+    "<!-- tuberculosis-learning-topic:start -->",
+    "<!-- tuberculosis-learning-topic:end -->"
+  ],
+  "sources": {
+    "999_附件文件夹/02_内科学第10版_按章节/009_0208_肺结核.md": {
+      "sha256": "20e2092d4961c1ece5802403f453381ce6300aa001f4c25742369d27feea6578",
+      "bytes": 59530,
+      "lines": 429
+    },
+    "999_附件文件夹/02_内科学第10版_按章节/014_0213_胸膜疾病.md": {
+      "sha256": "d5fe25d3c469499e17132e89ef0e6adb0ab67a60352f5fc7194d4889faca1b06",
+      "bytes": 49498,
+      "lines": 372
+    },
+    "999_附件文件夹/02_内科学第10版_按章节/040_0407_肠结核和结核性腹膜炎.md": {
+      "sha256": "bc53aa18f5de74bc9b26ab8e6d2407b44a0ec9d382aebc762d00c7c966549146",
+      "bytes": 16468,
+      "lines": 198
+    },
+    "999_附件文件夹/02_内科学第10版_按章节/027_0309_心包疾病.md": {
+      "sha256": "08c5a3282ab4f7d35d7a0afc5c50d8880530677258fe4ca45e709c835f7e086e",
+      "bytes": 22556,
+      "lines": 196
+    },
+    "999_附件文件夹/02_内科学第10版_按章节/097_0707_肾上腺疾病.md": {
+      "sha256": "f58f4c02cacca19360bdccc41a75440ab937add3c16a84e2a1d680b457a5fab9",
+      "bytes": 65893,
+      "lines": 488
+    },
+    "998_疾病卡片/02_呼吸系统疾病/肺结核.md": {
+      "sha256": "651f273a0cfc34a61c145b7079f1c57ad9c93c510cbdaa673c859b5014eeb305",
+      "bytes": 7210,
+      "lines": 157
+    }
+  },
+  "assets": {
+    "999_附件文件夹/images/64d9c068cc3a778e005ab6103b9c4dd761c271edd433373734178e83a3746bb0.jpg": {
+      "sha256": "78818fb31e2d80ae2c775dafb277a2b34265bafe63062047eebe09b43db729c5",
+      "bytes": 79923,
+      "dimensions": [
+        1059,
+        726
+      ]
+    },
+    "999_附件文件夹/images/d7205be23d1c1ec39dc98630adebdd7cdd895c3e42e69ccf858556f925280768.jpg": {
+      "sha256": "fabba0f7be424be1609fbe86b36a4673279bdabf1b25d5f44ed3e05ecb8ced2e",
+      "bytes": 59799,
+      "dimensions": [
+        862,
+        720
+      ]
+    },
+    "999_附件文件夹/images/ca2eb2871dc9b63a2d2e9f3c6b52f9db48ffd90d08ee0a9c09b26472b228bd8b.jpg": {
+      "sha256": "e7872308de8ab6bb9ab25cf70167a1fd12eb2f29aeddc036c73ce0f992b4bef4",
+      "bytes": 14746,
+      "dimensions": [
+        484,
+        421
+      ]
+    },
+    "999_附件文件夹/images/84618b708e4c17cda7ff138aa71363b81109c9d48aef9de14f0e6890937a36ba.jpg": {
+      "sha256": "da3e04e75ff710983c50b481a2d06d1b03827f0cee8d4d9a722f8010018545ac",
+      "bytes": 56126,
+      "dimensions": [
+        592,
+        459
+      ]
+    },
+    "999_附件文件夹/images/db4674259a9777b6d50ddccfb244339fd9e7486267296378ed5dc2a196ca7999.jpg": {
+      "sha256": "96f645f9b793ef46f85cef2f735345e296bcbeefcbcee37cccb2174c6a1f2c3e",
+      "bytes": 48363,
+      "dimensions": [
+        595,
+        462
+      ]
+    },
+    "999_附件文件夹/images/2e0e0bf978204faec5ac6d5e9c0688beacd54d0b5b5e098f05d4ea79339f7179.jpg": {
+      "sha256": "5f408d8071f384a31b11f89637081e93e6c9aed44e7ee90a640df767b303e0f3",
+      "bytes": 40950,
+      "dimensions": [
+        593,
+        459
+      ]
+    },
+    "999_附件文件夹/images/7915f5d78e79a611ef4d60b83b07e4b4b7c7563cccf151f53d1f500924ec36a6.jpg": {
+      "sha256": "4e8d9cf653bbd4c8358df7aa6e48fe30c62185220bc7eebe2cdeae45fbe21d16",
+      "bytes": 5390,
+      "dimensions": [
+        118,
+        117
+      ]
+    },
+    "999_附件文件夹/images/45b0204894ad4fa573d7dc580aca5276a4deb9bd2e8ae94def329ee62b7d7206.jpg": {
+      "sha256": "7530bd3e4ba92204195e27f694ef4184fbf6ee728a9a01fc26f29cf118c92796",
+      "bytes": 5387,
+      "dimensions": [
+        118,
+        112
+      ]
+    }
+  },
+  "outputs": {
+    "00_地图/结核病学习专题/00_结核病学习专题.md": {
+      "sha256": "84c5be8e6b2bae112f498b6f408f6337baf85fd756ba8837136a4341a870fc76",
+      "bytes": 4207,
+      "lines": 75
+    },
+    "00_地图/结核病学习专题/01_感染传播与免疫病理主线.md": {
+      "sha256": "993b7a74f841f11f40bd13a52f346e3b02703a05c6b88c574fcb68627cd81b76",
+      "bytes": 3510,
+      "lines": 69
+    },
+    "00_地图/结核病学习专题/02_肺结核诊断闭环与分型.md": {
+      "sha256": "65c2c28f88ab46f2edadaf5da6b8373116dd3498837ed6a8180338e89a57d0ec",
+      "bytes": 5098,
+      "lines": 97
+    },
+    "00_地图/结核病学习专题/03_抗结核治疗与药物.md": {
+      "sha256": "56b1da41346676caf464e21938be8799efe0d005b88fe72a8aabac7c869bbe4d",
+      "bytes": 4949,
+      "lines": 99
+    },
+    "00_地图/结核病学习专题/04_肺外结核专题.md": {
+      "sha256": "836c77195027a8109c47db4e33dc16d9bb45ae86f5cbca1d7b5eced962d79a84",
+      "bytes": 4924,
+      "lines": 100
+    },
+    "00_地图/结核病学习专题/05_鉴别诊断与做题陷阱.md": {
+      "sha256": "ed2c01daf6a4f589b3a643e2590f460cab9e90bdcfc6c4fe031ae233f1d5233f",
+      "bytes": 4745,
+      "lines": 86
+    },
+    "00_地图/结核病学习专题/06_主动回忆与复习清单.md": {
+      "sha256": "4a9df01bc2342ab8b25faec96514c62e52404843e620b23a122d04ab83eaa1a3",
+      "bytes": 3785,
+      "lines": 100
+    },
+    "00_地图/结核病学习专题/07_来源与验证记录.md": {
+      "sha256": "7e3f8c8784dcc5caec83628f1cf731b0820fe24874ed66cae63f5a616e299bd7",
+      "bytes": 2947,
+      "lines": 58
+    }
+  },
+  "validation": {
+    "expected_topic_files": 8,
+    "expected_images": 8,
+    "manual_edits_protected": true,
+    "source_files_read_only": true
+  }
+}
