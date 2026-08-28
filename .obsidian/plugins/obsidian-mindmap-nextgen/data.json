@@ -3,10 +3,10 @@
   "layout": [
     null,
     null,
+    null,
     {
       "type": "unpinned"
-    },
-    null
+    }
   ],
   "settings": {
     "splitDirection": "horizontal",
@@ -29,10 +29,10 @@
     "depth3Thickness": "1",
     "defaultColor": "#b58900",
     "defaultThickness": "1",
-    "screenshotBgColor": "#002b36",
+    "screenshotBgColor": "#ffffff",
     "screenshotBgStyle": "color",
-    "screenshotTextColor": "#fdf6e3",
-    "screenshotTextColorEnabled": false,
+    "screenshotTextColor": "#000000",
+    "screenshotTextColorEnabled": true,
     "titleAsRootNode": true
   }
 }

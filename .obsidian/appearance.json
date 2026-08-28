@@ -1,4 +1,5 @@
 {
   "baseFontSizeAction": true,
-  "cssTheme": "Wasp"
+  "cssTheme": "Wasp",
+  "baseFontSize": 15
 }
