@@ -3,9 +3,13 @@
   "better-fn",
   "better-word-count",
   "editing-toolbar",
-  "file-explorer-note-count",
   "notebook-navigator",
-  "recent-files-obsidian",
   "obsidian-mindmap-nextgen",
-  "obsidian-git"
+  "obsidian-git",
+  "recent-files-obsidian",
+  "file-explorer-note-count",
+  "templater-obsidian",
+  "dataview",
+  "obsidian-tasks-plugin",
+  "smart-connections"
 ]

@@ -90,7 +90,7 @@
     "featureImagePixelSize": "synced",
     "uiScale": "synced"
   },
-  "createNewNotesInNewTab": false,
+  "createNewNotesInNewTab": true,
   "autoRevealActiveFile": true,
   "autoRevealShortestPath": true,
   "autoRevealIgnoreRightSidebar": true,

@@ -16,3 +16,9 @@ tmp/
 .DS_Store
 Thumbs.db
 desktop.ini
+
+
+
+
+# Ignore Smart Environment folder
+.smart-env
