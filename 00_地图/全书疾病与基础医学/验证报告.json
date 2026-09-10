@@ -1,0 +1,17 @@
+{
+  "chapters": 131,
+  "diseases": 653,
+  "concepts": 40,
+  "representative_chains": 52,
+  "notes": 63,
+  "source_evidence_paragraphs": 2201,
+  "wikilinks": 13176,
+  "broken_links": 0,
+  "broken_anchors": 0,
+  "source_hashes_unchanged": true,
+  "evidence_counts": {
+    "仅有提及语境": 188,
+    "有疾病范围证据": 462,
+    "教材仅转引": 3
+  }
+}

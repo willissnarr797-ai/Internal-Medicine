@@ -2,7 +2,7 @@
   "alwaysUpdateLinks": true,
   "showLineNumber": true,
   "attachmentFolderPath": "999_附件文件夹",
-  "newFileLocation": "current",
+  "newFileLocation": "folder",
   "pdfExportSettings": {
     "includeName": true,
     "pageSize": "Letter",
@@ -10,5 +10,6 @@
     "margin": "0",
     "downscalePercent": 100
   },
-  "livePreview": true
+  "livePreview": true,
+  "newFileFolderPath": "997_临时文件夹"
 }
